@@ -1,0 +1,1001 @@
+id,country,city,currency,currency_code,lat,lon,postal_code,street_address
+1,dominican republic,Villa Francisca,Peso,DOP,18.4849304,-69.8887766,10215,74 Bobwhite Point
+2,indonesia,Puger,Rupiah,IDR,-8.4779418,113.3704466,,9849 Lighthouse Bay Crossing
+3,tajikistan,Proletar,Somoni,TJS,40.1507542,69.4903717,,3 Maywood Drive
+4,russia,Tayturka,Ruble,RUB,52.86917,103.46083,171649,452 Delladonna Circle
+5,iran,Tākestān,Rial,IRR,36.0720984,49.7013486,,3964 Messerschmidt Avenue
+6,honduras,El Triunfo,Lempira,HNL,13.1191133,-86.9949372,,80104 Milwaukee Lane
+7,indonesia,Kasreman,Rupiah,IDR,-7.4011226,111.5110576,,1074 Oak Valley Road
+8,united states,Phoenix,Dollar,USD,33.45,-112.08,85030,266 Sullivan Junction
+9,bulgaria,Vetrino,Lev,BGN,43.3155137,27.4337343,9225,6557 David Park
+10,netherlands,Hilversum,Euro,EUR,52.2239735,5.1704277,1209,6393 5th Court
+11,indonesia,Gadingrejo,Rupiah,IDR,-7.6374665,112.8880068,,49 Fuller Hill
+12,colombia,Margarita,Peso,COP,9.14586,-74.2932,133028,1 Arizona Alley
+13,china,Ganlin,Yuan Renminbi,CNY,26.0882134,119.3010346,,92477 Rusk Junction
+14,united states,Evansville,Dollar,USD,38.03,-87.58,47747,2 Shelley Hill
+15,philippines,Alicia,Peso,PHP,14.7008738,120.9869405,7040,51 Sloan Center
+16,china,Xinning,Yuan Renminbi,CNY,26.433417,110.856622,,60 Veith Circle
+17,russia,Kemlya,Ruble,RUB,54.6119569,45.9028182,431646,80042 Drewry Center
+18,indonesia,Pangansalan,Rupiah,IDR,-7.6150611,108.4988269,,8899 Cambridge Drive
+19,poland,Jasienica Rosielna,Zloty,PLN,49.7442318,21.9201324,36-220,912 Mallory Court
+20,france,Angers,Euro,EUR,47.4441206,-0.5572458,49010 CEDEX 01,5227 Trailsway Crossing
+21,philippines,Alacaygan,Peso,PHP,10.8833332,122.9666672,1212,2 Sycamore Trail
+22,china,Qitai,Yuan Renminbi,CNY,44.022066,89.593967,,26487 Dunning Point
+23,philippines,Apoya,Peso,PHP,9.2207,122.9053,2304,94 Memorial Lane
+24,brazil,Pedro Leopoldo,Real,BRL,-19.6189005,-44.0404979,33600-000,86 Mallory Junction
+25,united states,Wilmington,Dollar,USD,39.7472496,-75.5917092,19805,3 Miller Park
+26,indonesia,Nangakeo,Rupiah,IDR,-8.6796987,120.3896651,,98 Independence Way
+27,indonesia,Inanwatan,Rupiah,IDR,-2.0883269,132.1967716,,36108 Farragut Center
+28,canada,North Bay,Dollar,CAD,46.272758,-79.4298653,P1A,28884 Glendale Crossing
+29,china,Sui’an,Yuan Renminbi,CNY,24.115578,117.618772,,89321 Hoepker Parkway
+30,tunisia,Kairouan,Dinar,TND,35.6759137,10.0919243,,140 Loftsgordon Street
+31,united states,Columbus,Dollar,USD,39.96,-83.0,43268,13 Marcy Court
+32,united kingdom,London,Pound,GBP,51.4984999,-0.1401487,SW1E,23 Schmedeman Center
+33,guatemala,San Vicente Pacaya,Quetzal,GTQ,14.413539,-90.633471,05012,757 Logan Center
+34,canada,Agassiz,Dollar,CAD,49.2389409,-121.7658827,B2E,04 Logan Park
+35,china,Bohou,Yuan Renminbi,CNY,19.88374,109.745545,,56 Aberg Pass
+36,brazil,Montenegro,Real,BRL,-29.6829126,-51.4684153,95780-000,28835 Westport Avenue
+37,afghanistan,Baghlān,Afghani,AFN,35.8042947,69.2877535,,55 Mandrake Road
+38,united kingdom,Newton,Pound,GBP,52.913784,-0.445788,NG34,65154 Badeau Pass
+39,denmark,København,Krone,DKK,44.351935,-87.8445954,1240,9 Susan Way
+40,pakistan,Sann,Rupee,PKR,31.363043,72.98757,76130,1592 Little Fleur Trail
+41,czech republic,Toužim,Koruna,CZK,50.060504,12.985071,364 01,32 Rieder Hill
+42,philippines,Calumpang,Peso,PHP,14.5403397,121.0268687,2307,4 Mendota Alley
+43,china,Haoxinying,Yuan Renminbi,CNY,40.88222,111.715,,68555 Vermont Point
+44,togo,Bassar,Franc,XOF,9.2610914,0.7770529,,91 Spenser Place
+45,philippines,Guruyan,Peso,PHP,12.7523556,123.9719166,4706,9 Thierer Trail
+46,iran,Kermānshāh,Rial,IRR,34.3276924,47.0777685,,27143 Debra Crossing
+47,thailand,Sukhothai,Baht,THB,17.2375,99.818333,75120,9 Corry Road
+48,bosnia and herzegovina,Vareš,Marka,BAM,44.1618902,18.3268323,,7958 Hermina Avenue
+49,sweden,Årjäng,Krona,SEK,59.0463022,12.7017317,672 24,67041 Forster Court
+50,nigeria,Birnin Kebbi,Naira,NGN,12.4317585,4.1956212,,16 Pleasure Avenue
+51,czech republic,Řehlovice,Koruna,CZK,50.6261682,13.9528289,403 13,17 Sunbrook Crossing
+52,senegal,Foundiougne,Franc,XOF,13.81425,-16.4405872,,0 Kedzie Pass
+53,china,Shima,Yuan Renminbi,CNY,21.0033744,-89.6409417,,022 Maple Hill
+54,indonesia,Puyung,Rupiah,IDR,-8.6899169,116.2393209,,711 Granby Way
+55,russia,Uren’,Ruble,RUB,57.4746374,45.7930516,606800,31350 Fair Oaks Parkway
+56,brazil,Cachoeira,Real,BRL,-12.6010371,-38.965934,44300-000,7314 Fair Oaks Place
+57,china,Baitian,Yuan Renminbi,CNY,27.920538,112.410073,,89520 Evergreen Drive
+58,russia,Krasnaya Polyana,Ruble,RUB,43.6805415,40.2100333,354392,23168 Cody Point
+59,brazil,Contagem,Real,BRL,-19.9030544,-44.1170051,32000-000,83396 Bluejay Crossing
+60,china,Yushu,Yuan Renminbi,CNY,32.993106,97.008784,,05 Mallard Plaza
+61,belarus,Vishow,Ruble,BYR,53.905048,27.5393261,,41077 Fair Oaks Crossing
+62,china,Jiaotang,Yuan Renminbi,CNY,31.0252201,121.4337784,,215 Farragut Lane
+63,china,Wenquan,Yuan Renminbi,CNY,31.364042,108.520914,,4482 Cordelia Parkway
+64,canada,Moose Jaw,Dollar,CAD,50.4163784,-105.5361463,S6J,7051 Buena Vista Road
+65,indonesia,Johogunung,Rupiah,IDR,-6.721769,111.5021144,,757 Florence Street
+66,ukraine,Berezivka,Hryvnia,UAH,47.2038268,30.9163475,,8 Hanson Avenue
+67,indonesia,Girihieum,Rupiah,IDR,-7.13754,107.68305,,925 Sugar Terrace
+68,czech republic,Kovářov,Koruna,CZK,49.6489809,17.6517329,753 62,89 Fremont Park
+69,russia,Mayskiy,Ruble,RUB,45.1253665,42.0223291,162673,6 Mallory Pass
+70,indonesia,Kutamandarakan,Rupiah,IDR,-7.0258984,108.5567057,,928 Nova Court
+71,guatemala,San Antonio Huista,Quetzal,GTQ,15.6562837,-91.7638749,13024,6 Montana Alley
+72,greece,Plagiári,Euro,EUR,40.4749958,22.9587865,,2621 Pine View Road
+73,sweden,Borås,Krona,SEK,57.7117601,12.9075947,504 31,8461 Delaware Court
+74,philippines,Loreto,Peso,PHP,14.657758,120.9888316,8507,1 Fuller Trail
+75,china,Weizheng,Yuan Renminbi,CNY,28.6909216,113.5978392,,37648 Milwaukee Way
+76,germany,Düsseldorf,Euro,EUR,51.1879547,6.8173593,40591,1095 Morningstar Park
+77,indonesia,Rembes,Rupiah,IDR,-7.2267854,110.5424021,,99 Loftsgordon Hill
+78,brazil,Cachoeira do Sul,Real,BRL,-30.0336816,-52.893221,96500-000,106 Bayside Crossing
+79,thailand,Songkhla,Baht,THB,7.1864095,100.5927222,30280,8807 Wayridge Terrace
+80,argentina,Tartagal,Peso,ARS,-31.4534131,-64.2089174,3565,282 Loomis Circle
+81,philippines,Pawa,Peso,PHP,13.1789151,123.7396635,4514,71 Derek Terrace
+82,nigeria,Gwandu,Naira,NGN,12.4985661,4.6424521,,592 Petterle Junction
+83,nigeria,Offa,Naira,NGN,8.1393408,4.7174062,,13 Service Alley
+84,china,Meilin,Yuan Renminbi,CNY,31.7311971,117.2313179,,2001 Waywood Place
+85,norway,Tromsø,Krone,NOK,69.63186,18.9221,9265,60 Almo Drive
+86,indonesia,Sopla,Rupiah,IDR,-7.5208,108.6747,,880 Lakewood Lane
+87,poland,Swiętajno,Zloty,PLN,54.0481202,22.2939742,19-411,7 Hauk Trail
+88,portugal,Covão da Carvalha,Euro,EUR,39.55699,-8.736667,2485-203,3931 Transport Circle
+89,argentina,Arroyo Seco,Peso,ARS,-37.3130297,-59.0746886,5196,352 Buell Center
+90,china,Yongfa,Yuan Renminbi,CNY,23.364295,116.700277,,9 Loftsgordon Point
+91,japan,Yoshii,Yen,JPY,38.0485803,138.394706,952-1203,705 Thierer Hill
+92,china,Liangshui,Yuan Renminbi,CNY,36.588392,115.891646,,555 Beilfuss Circle
+93,russia,Suntar,Ruble,RUB,62.1549186,117.6331338,678290,1899 Farragut Circle
+94,poland,Sułkowice,Zloty,PLN,49.8151822,19.3771749,34-125,12465 Anderson Way
+95,tanzania,Makanya,Shilling,TZS,-4.3589834,37.8220414,,6 Crowley Center
+96,philippines,Botigues,Peso,PHP,14.5849522,121.0777423,3204,5496 Golden Leaf Avenue
+97,indonesia,Karamat,Rupiah,IDR,-6.7345601,108.2777899,,451 5th Center
+98,indonesia,Majan,Rupiah,IDR,-8.0397618,111.9000827,,58163 Milwaukee Parkway
+99,france,Rungis,Euro,EUR,48.7381259,2.3536083,94636 CEDEX 1,6432 Del Sol Lane
+100,gambia,No Kunda,Dalasi,GMD,13.5616918,-15.8304975,,42275 Stone Corner Crossing
+101,senegal,Foundiougne,Franc,XOF,13.81425,-16.4405872,,24 Lillian Road
+102,china,Yimamu,Yuan Renminbi,CNY,37.08828,79.855399,,92648 Paget Terrace
+103,russia,Ol’ginka,Ruble,RUB,44.202131,38.8907294,352840,2943 Menomonie Crossing
+104,portugal,Soutocico,Euro,EUR,39.7024946,-8.7377503,2420-031,0718 Dovetail Street
+105,sierra leone,Kailahun,Leone,SLL,8.2802196,-10.5718086,,80786 Vidon Center
+106,ukraine,Novoukrayinka,Hryvnia,UAH,48.3226457,31.5187617,,8854 1st Trail
+107,indonesia,Krajan,Rupiah,IDR,-7.5450262,111.6556388,,4559 Bobwhite Avenue
+108,brazil,Conceição do Araguaia,Real,BRL,-8.1774335,-49.4466005,68540-000,5262 Dexter Place
+109,russia,Saratov,Ruble,RUB,51.5182635,46.0058803,668162,44815 Pearson Terrace
+110,china,Shuanghe,Yuan Renminbi,CNY,44.840524,82.353656,,07904 Dahle Road
+111,mongolia,Nart,Tugrik,MNT,47.9195813,106.9211984,,8589 Crest Line Way
+112,russia,Solntsevo,Ruble,RUB,55.650711,37.39423,243429,499 Shasta Terrace
+113,nigeria,Zango,Naira,NGN,12.8964041,8.5281613,,241 Sommers Crossing
+114,bosnia and herzegovina,Maglaj,Marka,BAM,44.5454847,18.1033619,,2822 Grover Center
+115,indonesia,Rikitgaib,Rupiah,IDR,4.1382779,97.286868,,12190 Ridgeview Junction
+116,china,Sijihong,Yuan Renminbi,CNY,29.116031,112.567886,,19 Forest Hill
+117,sweden,Bengtsfors,Krona,SEK,59.0572129,12.6642819,666 23,2 New Castle Parkway
+118,egypt,Az Zarqā,Pound,EGP,31.2083984,31.6349344,,777 Bashford Center
+119,china,Zhanqian,Yuan Renminbi,CNY,40.67267,122.258961,,2 Warrior Avenue
+120,finland,Kangaslampi,Euro,EUR,62.2956257,28.2513674,79480,1 Hansons Avenue
+121,tunisia,Kebili,Dinar,TND,33.7071551,8.9714623,,7 Debs Drive
+122,panama,Potrerillos Arriba,Balboa,PAB,8.7069226,-82.4861053,,47 International Place
+123,indonesia,Sindangbarang,Rupiah,IDR,-7.4212735,107.172085,,852 Heath Plaza
+124,cape verde,Ponta do Sol,Escudo,CVE,17.2004826,-25.0925624,,93381 Novick Parkway
+125,china,Zaolin,Yuan Renminbi,CNY,39.85667,116.460756,,47 David Place
+126,china,Xinshidu,Yuan Renminbi,CNY,31.264592,121.585315,,681 Monterey Point
+127,china,Yangshan,Yuan Renminbi,CNY,24.466675,112.626495,,70140 Sommers Crossing
+128,russia,Shkotovo,Ruble,RUB,43.3250688,132.3546464,692815,4204 Continental Avenue
+129,yemen,Aḑ Ḑil‘,Rial,YER,14.67199,43.81828,,6262 Springs Junction
+130,russia,Nizhniy Tsasuchey,Ruble,RUB,50.515804,115.126221,674480,420 Briar Crest Drive
+131,haiti,Saint-Louis du Sud,Gourde,HTG,18.2618642,-73.54837,,52 Stoughton Alley
+132,philippines,Carmen,Peso,PHP,7.20312,124.796217,9408,45584 Leroy Lane
+133,france,Paris 12,Euro,EUR,43.4945737,5.8978018,75587 CEDEX 12,43605 Westport Crossing
+134,tanzania,Usevia,Shilling,TZS,-7.106273,31.234619,,6653 Northland Way
+135,thailand,Hat Yai,Baht,THB,7.0086472,100.4746879,90110,76 Jackson Lane
+136,brazil,Pindorama,Real,BRL,-21.1867409,-48.9081184,15830-000,73 Derek Circle
+137,philippines,Bukal Sur,Peso,PHP,13.928808,121.421617,4323,0 Debra Terrace
+138,poland,Białogard,Zloty,PLN,54.0077659,16.0063249,78-210,024 Fairfield Plaza
+139,finland,Jäppilä,Euro,EUR,62.3786184,27.4345664,77570,368 Becker Drive
+140,armenia,Surenavan,Dram,AMD,39.7992062,44.7723968,,29 Cherokee Circle
+141,brazil,Franca,Real,BRL,-20.5503886,-47.3951378,14400-000,631 Lyons Junction
+142,france,Montpellier,Euro,EUR,43.6121586,3.8626074,34032 CEDEX 1,1 Burning Wood Street
+143,russia,Sernovodsk,Ruble,RUB,43.336168,45.168817,366702,3639 Merchant Point
+144,dominican republic,Río Grande,Peso,DOP,18.9120012,-70.7490939,10411,09512 Trailsway Street
+145,iran,Eyvān,Rial,IRR,33.8297993,46.3073161,,608 Erie Road
+146,china,Yangmadao,Yuan Renminbi,CNY,36.2863829,120.2504861,,9495 Mandrake Avenue
+147,united states,Cincinnati,Dollar,USD,39.14,-84.54,45296,868 Eagan Court
+148,brazil,Quirinópolis,Real,BRL,-18.4476442,-50.4551598,75860-000,24 Clyde Gallagher Circle
+149,philippines,Paagahan,Peso,PHP,14.4450355,121.4022181,4021,88 Fisk Lane
+150,indonesia,Kawungsari,Rupiah,IDR,-7.384252,107.9591094,,48 Welch Circle
+151,honduras,El Rancho,Lempira,HNL,15.016667,-85.75,,1 Prentice Street
+152,indonesia,Baturinggit Kaja,Rupiah,IDR,-8.2464,115.5631,,1 Lunder Court
+153,macedonia,Чучер - Сандево,Denar,MKD,42.1087161,21.4177608,1011,57403 Crest Line Circle
+154,united states,Jamaica,Dollar,USD,40.6998888,-73.8076421,11470,9 Melrose Crossing
+155,china,Yajin,Yuan Renminbi,CNY,42.891255,129.508945,,46783 Ilene Alley
+156,morocco,Oued Zem,Dirham,MAD,32.8501501,-6.5775187,,3 Gateway Street
+157,albania,Libofshë,Lek,ALL,40.833907,19.5538336,,5 Hanson Terrace
+158,jordan,Irbid,Dinar,JOD,32.5569557,35.8479094,,5 Anzinger Hill
+159,philippines,Alicia,Peso,PHP,14.7008738,120.9869405,7040,6543 Surrey Road
+160,portugal,Quintã,Euro,EUR,40.8576169,-8.5183398,3720-546,9850 Burrows Parkway
+161,china,Yongfeng,Yuan Renminbi,CNY,27.318852,115.444319,,3068 Twin Pines Street
+162,philippines,Tiguha,Peso,PHP,7.7151954,123.2089252,1610,5 Susan Plaza
+163,china,Leigao,Yuan Renminbi,CNY,20.810762,110.187052,,9 Westport Circle
+164,bulgaria,Vetrino,Lev,BGN,43.3155137,27.4337343,9225,5379 Mitchell Trail
+165,united states,Dayton,Dollar,USD,39.7912709,-84.3226488,45426,49408 Armistice Center
+166,china,Xijia,Yuan Renminbi,CNY,33.298364,111.482591,,42710 Welch Point
+167,china,Chengdong,Yuan Renminbi,CNY,36.599744,101.803717,,8 Sundown Way
+168,china,Changshan,Yuan Renminbi,CNY,28.901462,118.511235,,026 Trailsway Street
+169,canada,Devon,Dollar,CAD,53.3547991,-113.7233907,T9G,0392 Fallview Park
+170,philippines,Cabangahan,Peso,PHP,10.4051594,123.9245693,6131,1513 Kipling Junction
+171,indonesia,Sungaikupang,Rupiah,IDR,-3.0245897,115.9881867,,40 Monument Point
+172,colombia,Puerto López,Peso,COP,4.1042005,-72.9283949,502009,000 Mallard Avenue
+173,serbia,Smederevska Palanka,Dinar,RSD,44.367191,20.9604515,,7622 Crescent Oaks Hill
+174,indonesia,Canggetelo,Rupiah,IDR,-6.9072,113.8825,,6296 Becker Terrace
+175,albania,Kashar,Lek,ALL,41.3445243,19.7234519,,66366 Village Drive
+176,brazil,Pouso Alegre,Real,BRL,-22.250939,-45.928795,37550-000,88 Fallview Road
+177,syria,Jindayris,Pound,SYP,36.39535,36.6889,,5841 Buhler Crossing
+178,jordan,Karak City,Dinar,JOD,31.1853497,35.7047733,,8675 Darwin Avenue
+179,japan,Kamigyō-ku,Yen,JPY,34.9540542,135.7515062,612-8447,98042 Mayer Street
+180,poland,Ryczów,Zloty,PLN,49.9805725,19.5512903,34-115,16994 Eliot Drive
+181,poland,Jednorożec,Zloty,PLN,53.1405147,21.0511534,06-323,82 Forster Plaza
+182,china,Ping’an,Yuan Renminbi,CNY,31.2221,121.457658,,75483 Waxwing Street
+183,philippines,Punolu,Peso,PHP,7.05,124.58333,1114,12 Kedzie Drive
+184,japan,Kadoma,Yen,JPY,34.7385063,135.5737861,571-0050,057 Cardinal Plaza
+185,cuba,Las Tunas,Peso,CUP,20.957938,-76.9527836,,72995 Blackbird Alley
+186,russia,Usogorsk,Ruble,RUB,63.4258542,48.67174,169270,2405 Hagan Parkway
+187,china,Yingjiang,Yuan Renminbi,CNY,24.70521,97.931954,,057 Bonner Hill
+188,indonesia,Karangwungu Lor,Rupiah,IDR,-6.9933556,112.3650707,,611 Blaine Court
+189,guatemala,San Miguel Dueñas,Quetzal,GTQ,14.523594,-90.7973456,03017,34 Farwell Pass
+190,china,Jindaoxia,Yuan Renminbi,CNY,29.999504,106.65627,,7 Autumn Leaf Hill
+191,brazil,Apucarana,Real,BRL,-23.5586314,-51.4650904,86800-000,74792 Mayer Road
+192,china,Ganshui,Yuan Renminbi,CNY,28.739865,106.720976,,0 Claremont Park
+193,indonesia,Cipesing,Rupiah,IDR,-6.8057733,107.5609228,,26 Bunker Hill Way
+194,indonesia,Kradinan,Rupiah,IDR,-7.7995142,111.5438491,,11 Cascade Lane
+195,serbia,Radenković,Dinar,RSD,44.9259216,19.5010071,,5 Transport Crossing
+196,poland,Winnica,Zloty,PLN,52.6424878,20.9312946,06-120,1129 Veith Lane
+197,united states,Washington,Dollar,USD,38.8965627,-77.0224418,20436,91 Sunfield Circle
+198,suriname,Lelydorp,Dollar,SRD,5.6979328,-55.220397,,6185 Raven Lane
+199,poland,Gizałki,Zloty,PLN,52.0610443,17.8504238,63-308,4216 Algoma Center
+200,croatia,Bakar,Kuna,HRK,45.40351,13.872724,52428,2195 Sutherland Place
+201,china,Bazhu,Yuan Renminbi,CNY,28.9456318,111.7021355,,22 Basil Parkway
+202,libya,Az Zintān,Dinar,LYD,31.8024122,12.3005803,,70 Warbler Park
+203,poland,Żyrardów,Zloty,PLN,52.0592063,20.4515916,96-304,8599 Debs Pass
+204,portugal,Quinta,Euro,EUR,40.9515138,-8.5904113,4520-509,87 Homewood Plaza
+205,nigeria,Kuje,Naira,NGN,8.8763514,7.2437105,,3929 Fulton Circle
+206,panama,Changuinola,Balboa,PAB,9.4488704,-82.485187,,2 International Circle
+207,malaysia,Rawang,Ringgit,MYR,3.3217785,101.4679893,48100,6978 Schlimgen Circle
+208,ukraine,Ulanov,Hryvnia,UAH,49.6911273,28.1308882,,6 Sachtjen Hill
+209,russia,Emar,Ruble,RUB,51.5350444,46.0081774,169635,7013 Killdeer Point
+210,france,Bastia,Euro,EUR,42.930418,1.7243511,20403 CEDEX,3 Stuart Circle
+211,china,Macheng,Yuan Renminbi,CNY,31.172739,115.008163,,323 Homewood Crossing
+212,czech republic,Vysoké Mýto,Koruna,CZK,49.9542636,16.1641685,566 01,3 Almo Drive
+213,nigeria,Koton Karifi,Naira,NGN,8.1,6.8,,86064 Acker Way
+214,uganda,Kamwenge,Shilling,UGX,0.186066,30.4512086,,62 Westridge Crossing
+215,indonesia,Gondang,Rupiah,IDR,-7.4417327,111.1056539,,6570 Bay Junction
+216,china,Tieba,Yuan Renminbi,CNY,35.0032213,102.913526,,56637 Spohn Court
+217,ukraine,Vynohradiv,Hryvnia,UAH,48.1463491,23.0302123,,2164 East Alley
+218,nigeria,Kuje,Naira,NGN,8.8763514,7.2437105,,15 Crest Line Way
+219,burundi,Kayanza,Franc,BIF,-2.9218531,29.6252858,,01 Johnson Center
+220,paraguay,Los Cedrales,Guarani,PYG,-25.6707073,-54.7412036,,806 Packers Way
+221,norway,Bergen,Krone,NOK,60.3560649,5.3446343,5879,8572 Melrose Point
+222,yemen,Ḩabābah,Rial,YER,15.5417343,43.8744857,,8 Express Avenue
+223,brazil,Viçosa,Real,BRL,-5.98978,-37.9466737,59815-000,623 Old Shore Circle
+224,china,Anyuan,Yuan Renminbi,CNY,27.615202,113.870729,,6123 Warbler Circle
+225,kazakhstan,Shymkent,Tenge,KZT,42.3416847,69.590101,,161 Granby Plaza
+226,malaysia,Kuching,Ringgit,MYR,3.2093353,101.6716295,93742,629 Calypso Pass
+227,indonesia,Sinarbakti,Rupiah,IDR,-7.2752365,106.9860384,,919 Lillian Terrace
+228,russia,Ust’-Dzheguta,Ruble,RUB,44.0738696,41.9213303,369312,05995 Nevada Trail
+229,philippines,Janagdong,Peso,PHP,13.9242836,121.5035823,1808,6 Heath Crossing
+230,france,Saint-Ouen,Euro,EUR,46.5993244,-1.1457859,93487 CEDEX,885 Johnson Trail
+231,norway,Oslo,Krone,NOK,59.9050895,10.7673005,0309,46 Mcbride Crossing
+232,philippines,San Narciso,Peso,PHP,13.4345789,122.6430631,4313,8325 Dayton Avenue
+233,botswana,Mogapi,Pula,BWP,-22.3281412,27.8252814,,1780 Meadow Vale Crossing
+234,pakistan,Panjgūr,Rupee,PKR,27.4140682,64.987739,93000,407 Autumn Leaf Trail
+235,poland,Haczów,Zloty,PLN,49.689425,21.9126813,36-213,674 High Crossing Plaza
+236,china,Huayuan,Yuan Renminbi,CNY,28.572029,109.482078,,05340 Artisan Terrace
+237,argentina,Curuzú Cuatiá,Peso,ARS,-34.6182974,-58.5303202,3466,0 Old Gate Avenue
+238,china,Siqian,Yuan Renminbi,CNY,30.711012,116.242861,,4051 Hanover Terrace
+239,luxembourg,Diekirch,Euro,EUR,49.9386129,6.0839611,L-9378,61995 Grover Court
+240,indonesia,Karanganyar,Rupiah,IDR,-7.6387228,111.0460407,,345 6th Way
+241,russia,Lesogorsk,Ruble,RUB,56.0446874,99.5285704,665501,4938 Pawling Circle
+242,vietnam,Bến Tre,Dong,VND,10.1081553,106.4405872,,156 Northridge Park
+243,canada,Bromont,Dollar,CAD,45.3151096,-72.661835,J2L,100 Dottie Point
+244,brazil,Nanuque,Real,BRL,-17.8546259,-40.3322956,39860-000,171 Springs Way
+245,philippines,Gammad,Peso,PHP,17.7047344,121.7477444,3503,479 Hallows Center
+246,poland,Kalwaria Zebrzydowska,Zloty,PLN,49.86686,19.67676,34-130,4929 Sutherland Drive
+247,greece,Gastoúni,Euro,EUR,37.8509191,21.2543651,,572 Quincy Point
+248,samoa,Vailoa,Tala,WST,-13.7557949,-172.3051657,,01 Victoria Terrace
+249,paraguay,Santa Rita,Guarani,PYG,-25.7917136,-55.0879338,,254 Algoma Trail
+250,china,Nanjing,Yuan Renminbi,CNY,32.060255,118.796877,,3 Jenifer Pass
+251,thailand,Ko Samui,Baht,THB,9.4693943,99.9688636,84140,128 Fulton Circle
+252,sweden,Hägersten,Krona,SEK,59.3015113,17.9981495,126 36,02 Florence Place
+253,thailand,Khanu Woralaksaburi,Baht,THB,16.0954654,99.8348146,62130,8 Pleasure Center
+254,philippines,Silvino Lobos,Peso,PHP,12.304106,124.834849,6414,0 Bultman Terrace
+255,portugal,Fiais da Beira,Euro,EUR,40.4222721,-7.921883,3405-077,8521 Dixon Crossing
+256,san marino,Fiorentino,Euro,EUR,43.9078337,12.4581209,47897,61563 Golf View Way
+257,russia,Planovskoye,Ruble,RUB,43.3959731,44.1971438,361222,25476 Straubel Court
+258,indonesia,Klatakan,Rupiah,IDR,-7.7013097,113.8882172,,6702 Ilene Lane
+259,brazil,São João da Boa Vista,Real,BRL,-21.9751571,-46.7997801,13870-000,44 Gina Drive
+260,ukraine,Zhovti Vody,Hryvnia,UAH,48.3441198,33.5244801,,0 Trailsway Terrace
+261,poland,Sędziejowice,Zloty,PLN,51.5006286,19.0170774,98-160,029 Eastwood Terrace
+262,china,Chaoyang,Yuan Renminbi,CNY,41.57365,120.4493879,,917 Stoughton Pass
+263,canada,West End,Dollar,CAD,49.2867869,-123.130627,V7Y,1815 Declaration Junction
+264,france,Saint-Priest,Euro,EUR,45.6739962,4.956609,69794 CEDEX,084 Cambridge Street
+265,canada,Les Coteaux,Dollar,CAD,45.2645197,-74.2176156,J7X,98 Transport Avenue
+266,russia,Bogolyubovo,Ruble,RUB,56.1952581,40.5343698,601270,1889 Banding Point
+267,china,Gejiu,Yuan Renminbi,CNY,23.359121,103.160034,,9 American Court
+268,france,Chantilly,Euro,EUR,47.3036891,2.6981496,60647 CEDEX,15 Marcy Park
+269,colombia,San Gil,Peso,COP,6.5905816,-73.1526623,684039,6812 Straubel Center
+270,indonesia,Bakung,Rupiah,IDR,-8.2593984,112.0714835,,33506 Schiller Road
+271,norway,Oslo,Krone,NOK,59.9043046,10.7545473,0194,112 Waxwing Pass
+272,china,Daguyun,Yuan Renminbi,CNY,26.259427,107.518847,,7487 Sachs Street
+273,russia,Shalinskoye,Ruble,RUB,55.7279446,93.768409,663510,4 Westend Street
+274,kosovo,Dragash,Euro,EUR,42.0615398,20.6511592,,210 Beilfuss Street
+275,russia,Nal’chik,Ruble,RUB,43.5661719,43.4895256,361424,2 Magdeline Hill
+276,luxembourg,Niedercorn,Euro,EUR,49.5508306,5.9340983,L-4993,9 Lunder Junction
+277,poland,Boniewo,Zloty,PLN,52.4657235,18.884747,87-851,09455 Schurz Pass
+278,china,Shanglian,Yuan Renminbi,CNY,24.749307,103.271467,,08 Havey Terrace
+279,mexico,Lazaro Cardenas,Peso,MXN,17.9567646,-102.1943485,75710,55 Pepper Wood Circle
+280,bangladesh,Tāngāil,Taka,BDT,24.1919524,89.9681979,3062,31 Sachs Way
+281,indonesia,Nunmanu,Rupiah,IDR,-10.0431,124.3382,,13448 Huxley Drive
+282,russia,Bryansk,Ruble,RUB,53.3249623,34.374358,241904,4307 Northport Trail
+283,united states,Savannah,Dollar,USD,42.6862558,-82.7625747,31422,7 Stoughton Center
+284,indonesia,Mancagahar,Rupiah,IDR,-7.6569277,107.7073688,,4 Cardinal Trail
+285,cyprus,Akaki,Euro,EUR,35.1379343,33.1323409,,30527 Comanche Pass
+286,belarus,Dowsk,Ruble,BYR,53.1570421,30.4606679,,76 Harbort Parkway
+287,china,Wangyi Zhendian,Yuan Renminbi,CNY,31.325748,113.393516,,7 Sutteridge Road
+288,japan,Kashiwazaki,Yen,JPY,37.7816743,140.9664638,976-0034,3 Hanover Road
+289,russia,Neftegorsk,Ruble,RUB,52.803304,51.1735574,446600,604 Hanover Street
+290,albania,Zall-Dardhë,Lek,ALL,41.8061049,20.3353497,,623 Petterle Place
+291,estonia,Tartu,Euro,EUR,58.3776252,26.7290062,,866 Hermina Drive
+292,china,Jinji,Yuan Renminbi,CNY,31.3115396,120.6947551,,1 Holmberg Circle
+293,united states,Dallas,Dollar,USD,32.78,-96.8,75397,7912 Sommers Alley
+294,russia,Novoaleksandrovsk,Ruble,RUB,45.4885295,41.1600688,356003,95 Declaration Plaza
+295,china,Fuliang,Yuan Renminbi,CNY,29.703113,107.389298,,06834 Maywood Park
+296,china,Balbagay,Yuan Renminbi,CNY,47.520508,87.750232,,7 East Point
+297,china,Hekou,Yuan Renminbi,CNY,22.529403,103.93935,,6 Dapin Alley
+298,guatemala,Huité,Quetzal,GTQ,14.9269532,-89.7161012,19010,13 Old Shore Avenue
+299,honduras,San Agustín,Lempira,HNL,14.8182209,-88.9377949,,1 Columbus Center
+300,taiwan,Daxi,Dollar,TWD,24.8658422,121.2969674,,18 Forest Avenue
+301,peru,Bretaña,Sol,PEN,-5.266667,-74.283333,,670 Kinsman Circle
+302,colombia,Caparrapí,Peso,COP,5.4829423,-74.4604064,253468,06964 Northland Street
+303,brazil,Barreirinhas,Real,BRL,-2.759,-42.8236209,65590-000,9548 Fieldstone Avenue
+304,china,Hongyang,Yuan Renminbi,CNY,27.9676537,120.6344509,,2 Tomscot Trail
+305,indonesia,Kayukembang,Rupiah,IDR,-6.9338,113.9812,,08510 Grasskamp Junction
+306,greece,Empório,Euro,EUR,36.3573462,25.4459308,,8 Colorado Crossing
+307,china,Xin’an,Yuan Renminbi,CNY,34.728584,112.132488,,370 Dayton Pass
+308,philippines,Andres Bonifacio,Peso,PHP,8.2414293,124.2469573,6541,776 Coolidge Avenue
+309,portugal,Braga,Euro,EUR,41.5678915,-8.4219601,4700-005,30088 Cottonwood Parkway
+310,china,Lingyuan,Yuan Renminbi,CNY,41.245445,119.4015739,,483 Southridge Road
+311,mexico,Loma Bonita,Peso,MXN,18.1096868,-95.8803869,41240,50 Toban Lane
+312,ukraine,Semenivka,Hryvnia,UAH,52.1814619,32.583994,,00504 Valley Edge Point
+313,poland,Mrozy,Zloty,PLN,52.1379258,21.828508,05-320,35990 Lerdahl Hill
+314,greece,Páchni,Euro,EUR,41.3053973,24.8927934,,92744 Loftsgordon Trail
+315,china,Bulongji,Yuan Renminbi,CNY,40.531867,96.543937,,76 North Hill
+316,serbia,Leskovac,Dinar,RSD,42.9963758,21.944034,,893 Mosinee Place
+317,russia,Dolinsk,Ruble,RUB,43.4554,43.5944,102745,3 Dexter Point
+318,indonesia,Rawuk,Rupiah,IDR,-8.792325,120.960602,,2 Boyd Crossing
+319,china,Wulong,Yuan Renminbi,CNY,29.325601,107.760025,,186 Waxwing Lane
+320,russia,Yeysk,Ruble,RUB,46.711547,38.2755861,404172,2 Riverside Circle
+321,indonesia,Nangerang,Rupiah,IDR,-6.6970726,107.5357224,,58 Armistice Avenue
+322,ukraine,Kozhanka,Hryvnia,UAH,49.9713653,29.7636724,,2481 Service Point
+323,portugal,Chafé,Euro,EUR,41.6490501,-8.7836437,4935-584,8687 Hanson Lane
+324,united states,Scottsdale,Dollar,USD,33.6160293,-111.8926303,85260,67 Bartillon Lane
+325,philippines,Umanday Centro,Peso,PHP,15.9448806,120.1907996,2415,5 Ridge Oak Court
+326,philippines,De la Paz,Peso,PHP,14.6135888,121.0957927,7105,39768 Superior Alley
+327,china,Zhangxi,Yuan Renminbi,CNY,24.808198,118.03177,,4105 Memorial Plaza
+328,indonesia,Nihaona,Rupiah,IDR,-6.2035969,106.8198946,,371 Shasta Lane
+329,china,Kefang,Yuan Renminbi,CNY,34.797281,114.307582,,8 Atwood Lane
+330,brazil,Tambaú,Real,BRL,-21.7034017,-47.27079,13710-000,630 Division Street
+331,france,Strasbourg,Euro,EUR,48.5966574,7.7744139,67928 CEDEX 9,300 Prairie Rose Avenue
+332,china,Fanrong,Yuan Renminbi,CNY,29.561775,106.568971,,975 Division Park
+333,poland,Mszana Dolna,Zloty,PLN,49.67403,20.07982,34-730,55902 Blue Bill Park Trail
+334,ukraine,Rozhnyativ,Hryvnia,UAH,48.9361342,24.1594075,,11 Oxford Crossing
+335,china,Wushi,Yuan Renminbi,CNY,31.491169,120.31191,,4 Valley Edge Center
+336,poland,Dębów,Zloty,PLN,50.045621,22.4322889,37-230,45 Oneill Street
+337,poland,Pogorzyce,Zloty,PLN,50.10186,19.42228,32-503,7 Ohio Road
+338,colombia,Corinto,Peso,COP,3.095417,-76.1435915,191569,9 Bluestem Place
+339,philippines,Libas,Peso,PHP,15.8785099,120.3186429,6540,1972 Farmco Circle
+340,china,Labrang,Yuan Renminbi,CNY,35.1933373,102.5064329,,55 Garrison Point
+341,china,Nantou,Yuan Renminbi,CNY,23.9179637,120.6775054,,09 Park Meadow Court
+342,haiti,Petite Anse,Gourde,HTG,19.6300952,-73.1554281,,03487 6th Parkway
+343,china,Linjiang,Yuan Renminbi,CNY,41.811979,126.918087,,1 Claremont Plaza
+344,czech republic,Žihle,Koruna,CZK,50.0449195,13.3750303,331 65,03 Nobel Junction
+345,china,Qilong,Yuan Renminbi,CNY,39.903538,116.42675,,7275 Mendota Road
+346,japan,Niitsu-honchō,Yen,JPY,37.7977942,139.1253637,959-1855,05041 Elmside Terrace
+347,russia,Ust’-Kachka,Ruble,RUB,58.00284,55.6720592,614524,72166 Reindahl Parkway
+348,peru,Chucatamani,Sol,PEN,-17.4806228,-70.1229081,,3 Farwell Way
+349,argentina,Avellaneda,Peso,ARS,-37.9973752,-57.5825246,5212,552 Monterey Park
+350,brazil,Limeira,Real,BRL,-22.570834,-47.4147321,13480-000,6999 Elmside Court
+351,canada,Beaconsfield,Dollar,CAD,45.4289588,-73.8689881,H9W,4669 Tomscot Hill
+352,ukraine,Dubno,Hryvnia,UAH,50.4009139,25.7590674,,3771 4th Plaza
+353,indonesia,Sumbermanggis,Rupiah,IDR,-8.4382384,114.0974489,,3 Kings Road
+354,russia,Suslonger,Ruble,RUB,56.3153167,48.2506985,425050,8994 Harper Hill
+355,mongolia,Darhan,Tugrik,MNT,49.4648434,105.9745919,,4033 Sauthoff Center
+356,philippines,Mayapusi,Peso,PHP,28.5852762,77.1827834,1215,7259 Towne Crossing
+357,botswana,Kopong,Pula,BWP,-24.4770763,25.8906212,,751 Maple Wood Hill
+358,peru,Huicungo,Sol,PEN,-7.3195036,-76.7769324,,2 Little Fleur Trail
+359,china,Huaping,Yuan Renminbi,CNY,26.629211,101.266195,,4564 Sutteridge Junction
+360,united states,Albuquerque,Dollar,USD,35.1332903,-106.6167113,87201,289 Granby Road
+361,france,Paris 18,Euro,EUR,43.4945737,5.8978018,75879 CEDEX 18,21236 Gale Plaza
+362,china,Shifang,Yuan Renminbi,CNY,31.12678,104.167501,,067 Toban Lane
+363,indonesia,Taramana,Rupiah,IDR,-8.170292,124.854068,,41928 Vernon Avenue
+364,mexico,La Soledad,Peso,MXN,19.7267712,-101.1850967,58118,822 Hansons Parkway
+365,china,Lanxi,Yuan Renminbi,CNY,29.208918,119.460526,,70446 Marquette Avenue
+366,portugal,Cimo de Vila,Euro,EUR,42.0649631,-8.3756082,4950-081,2414 Nancy Circle
+367,vietnam,Ngoc Hon Doc,Dong,VND,10.18462,104.92959,,5 Emmet Way
+368,macedonia,Brvenica,Denar,MKD,41.9539849,21.0134768,1216,36254 Lighthouse Bay Parkway
+369,sweden,Mariestad,Krona,SEK,58.6429512,13.6587955,542 95,793 Mccormick Parkway
+370,indonesia,Kolirerek,Rupiah,IDR,-8.4447,123.4715,,5660 Melby Lane
+371,china,Chang’an,Yuan Renminbi,CNY,34.158997,108.906994,,1909 Ludington Terrace
+372,czech republic,Žeravice,Koruna,CZK,49.0122792,17.2425732,696 47,6 Ridgeview Plaza
+373,china,Moshiyi,Yuan Renminbi,CNY,27.8277,103.72828,,3 Ramsey Terrace
+374,honduras,Las Trojes,Lempira,HNL,14.08181,-85.994003,,5 Nelson Plaza
+375,austria,Altenberg bei Linz,Euro,EUR,48.3688297,14.4310149,4210,17755 Independence Point
+376,peru,Huacho,Sol,PEN,-11.1227218,-77.6105679,,348 Darwin Hill
+377,china,Tuhe,Yuan Renminbi,CNY,34.33629,119.547248,,12 Anzinger Crossing
+378,portugal,Arcena Pequena,Euro,EUR,39.2167,-9.2167,2615-266,44 Schiller Pass
+379,france,Quimper,Euro,EUR,47.9838092,-4.0325499,29551 CEDEX 9,6572 Loeprich Drive
+380,china,Dadong,Yuan Renminbi,CNY,41.805137,123.4699481,,44 Meadow Valley Hill
+381,eritrea,Barentu,Nakfa,ERN,15.1074513,37.5907446,,7065 Banding Avenue
+382,indonesia,Bedayutalang,Rupiah,IDR,-8.073071,113.1173534,,695 Marquette Trail
+383,argentina,General Arenales,Peso,ARS,-34.5838708,-58.4160621,6005,37184 Calypso Alley
+384,slovenia,Razvanje,Euro,EUR,46.5222421,15.6550008,2313,4 Daystar Way
+385,indonesia,Dalo,Rupiah,IDR,-8.5997534,120.3867834,,1616 Hayes Road
+386,france,Mazamet,Euro,EUR,43.4899263,2.3764372,81204 CEDEX,6786 Havey Hill
+387,indonesia,Genteng,Rupiah,IDR,-7.3614413,106.4019733,,53129 Pearson Trail
+388,nigeria,Bassa,Naira,NGN,7.7701761,7.0498442,,8362 Bluejay Park
+389,thailand,Phichit,Baht,THB,16.4306671,100.1255164,66140,8708 David Junction
+390,yemen,Jiblah,Rial,YER,13.92413,44.1459167,,80 Judy Park
+391,russia,Spassk-Dal’niy,Ruble,RUB,44.5931785,132.7381046,692239,99875 Elmside Crossing
+392,united states,Youngstown,Dollar,USD,41.0699247,-80.6937177,44511,03 Straubel Junction
+393,russia,Penza,Ruble,RUB,53.194641,45.0240889,440999,91 Lakewood Gardens Avenue
+394,czech republic,Zdice,Koruna,CZK,49.9120778,13.9774742,267 51,61568 Rigney Center
+395,philippines,Madrid,Peso,PHP,14.4994231,121.0204566,8316,7 Oriole Center
+396,china,Dali,Yuan Renminbi,CNY,25.606486,100.267638,,466 Jenifer Lane
+397,sweden,Trollhättan,Krona,SEK,58.322001,12.3145938,461 70,40 Gateway Road
+398,china,Liwu,Yuan Renminbi,CNY,22.493492,113.49349,,656 4th Terrace
+399,indonesia,Obesi,Rupiah,IDR,-9.7239549,124.272721,,4 Portage Park
+400,netherlands,Schiedam postbusnummers,Euro,EUR,51.883,4.3577,3104,94523 Mesta Circle
+401,russia,Nikol’sk,Ruble,RUB,43.800779,131.978812,630025,31536 Sauthoff Trail
+402,tunisia,Bizerte,Dinar,TND,37.2746124,9.8627243,,4236 Green Drive
+403,colombia,Nunchía,Peso,COP,5.4942923,-72.0942187,851078,39917 Fulton Center
+404,czech republic,Černá Hora,Koruna,CZK,49.4136066,16.5814019,679 21,9 Garrison Place
+405,china,Taoyuan,Yuan Renminbi,CNY,24.9936281,121.3009798,,183 Briar Crest Street
+406,thailand,Pran Buri,Baht,THB,12.3531546,99.9409196,77120,370 Butternut Crossing
+407,russia,Vypolzovo,Ruble,RUB,57.8702991,33.6950887,171053,7928 Cordelia Plaza
+408,china,Wanfa,Yuan Renminbi,CNY,46.228975,125.341286,,70352 Service Way
+409,china,Zhuji,Yuan Renminbi,CNY,29.708692,120.246863,,022 Bellgrove Court
+410,thailand,Betong,Baht,THB,5.7799851,101.0372376,95110,186 Nevada Road
+411,china,Fengtai Chengguanzhen,Yuan Renminbi,CNY,32.709243,116.722615,,0 Harper Circle
+412,philippines,Matiao,Peso,PHP,9.3420526,123.2904615,8117,2751 Bluejay Point
+413,poland,Praga Północ,Zloty,PLN,51.8964003,18.9565781,05-094,15850 Bluestem Lane
+414,spain,Ferrol,Euro,EUR,43.4880374,-8.2310576,15490,919 Del Mar Center
+415,namibia,Outapi,Dollar,NAD,-17.5093929,14.9885388,,8 Annamark Street
+416,canada,Beaconsfield,Dollar,CAD,45.4289588,-73.8689881,H9W,3225 Anderson Avenue
+417,ukraine,Kamyshevka Vtoraya,Hryvnia,UAH,46.23333,29.83333,,0 Manufacturers Trail
+418,philippines,Tungawan,Peso,PHP,7.5252594,122.3617095,7018,82 Prairieview Trail
+419,cambodia,Ta Khmau,Riels,KHR,11.4592378,104.9447261,,814 8th Crossing
+420,china,Hujia,Yuan Renminbi,CNY,39.9226132,116.4606871,,40620 Marcy Alley
+421,poland,Kołaczyce,Zloty,PLN,49.8073734,21.4331923,38-213,6 Moland Place
+422,france,Paris 17,Euro,EUR,43.4945737,5.8978018,75832 CEDEX 17,41 Fordem Place
+423,russia,Zhavoronki,Ruble,RUB,55.6503772,37.1124597,601107,26639 Logan Way
+424,portugal,Funchal,Euro,EUR,32.6480275,-16.9417632,9000-005,9 Utah Hill
+425,luxembourg,Sandweiler,Euro,EUR,49.6235379,6.2379992,L-5290,8 Nevada Parkway
+426,pakistan,Khuzdār,Rupee,PKR,27.8120208,66.6116916,37251,5637 Hanover Alley
+427,china,Jiaoshanhe,Yuan Renminbi,CNY,30.830898,120.92585,,16298 Jenna Point
+428,russia,Bronnitsy,Ruble,RUB,55.4055305,38.2447393,142451,45396 Marcy Street
+429,bulgaria,Yambol,Lev,BGN,42.4865907,26.5331057,8600,317 Mcbride Circle
+430,czech republic,Bílovec,Koruna,CZK,49.7563861,18.0158192,743 01,528 Schmedeman Lane
+431,poland,Głogów Małopolski,Zloty,PLN,50.1597084,21.955679,36-060,926 Pepper Wood Crossing
+432,china,Danzao,Yuan Renminbi,CNY,24.737065,118.630289,,009 Menomonie Pass
+433,indonesia,Wolonio,Rupiah,IDR,-8.7833,121.219,,66 Monica Plaza
+434,indonesia,Kaliwates,Rupiah,IDR,-8.189193,113.6740257,,4057 Sloan Street
+435,china,Zhenghu,Yuan Renminbi,CNY,34.746611,113.625328,,7 Westridge Center
+436,philippines,Napalitan,Peso,PHP,8.77528,124.80222,9006,6 Bartillon Point
+437,france,Aix-en-Provence,Euro,EUR,43.4914335,5.3707209,13792 CEDEX 3,94 Muir Parkway
+438,china,Shimen,Yuan Renminbi,CNY,29.584292,111.380014,,634 Butterfield Drive
+439,zambia,Namwala,Kwacha,ZMW,-15.7524721,26.4370933,,73 Orin Hill
+440,united states,Greensboro,Dollar,USD,36.09,-79.78,27415,5148 Gateway Avenue
+441,iran,Gonābād,Rial,IRR,34.339552,58.7030326,,041 Rutledge Court
+442,china,Qingyang,Yuan Renminbi,CNY,35.709077,107.643631,,475 Jenna Avenue
+443,armenia,Gugark’,Dram,AMD,40.8021951,44.5395836,,51 Forest Run Drive
+444,philippines,Quipot,Peso,PHP,13.9293954,121.3228399,5014,120 Sullivan Place
+445,czech republic,Lukavec,Koruna,CZK,49.7517708,17.919916,742 45,44818 Vera Circle
+446,sweden,Robertsfors,Krona,SEK,64.191835,20.84891,915 32,5 Arkansas Crossing
+447,portugal,Nogueira da Regedoura,Euro,EUR,41.0059666,-8.596247,4500-695,8597 Rusk Terrace
+448,poland,Koło,Zloty,PLN,52.279986,17.3522939,62-602,9139 Dixon Parkway
+449,philippines,Aglipay,Peso,PHP,16.8802365,121.5833217,3403,295 Lakewood Gardens Trail
+450,china,Jishui,Yuan Renminbi,CNY,27.229632,115.135507,,833 Village Green Road
+451,brazil,Maracaju,Real,BRL,-21.6110027,-55.168269,79150-000,496 Banding Way
+452,china,Youlan,Yuan Renminbi,CNY,48.1283188,11.544489,,1331 Jenifer Trail
+453,norway,Oslo,Krone,NOK,59.9050895,10.7673005,0620,7001 Washington Way
+454,poland,Imielin,Zloty,PLN,50.1470572,19.204916,41-407,6530 Morningstar Point
+455,russia,Inya,Ruble,RUB,54.9850214,83.0470827,646604,6 Bellgrove Road
+456,china,Mizhuang,Yuan Renminbi,CNY,33.052837,112.55743,,712 Thompson Drive
+457,france,Paris 12,Euro,EUR,43.4945737,5.8978018,75609 CEDEX 12,9958 Maple Wood Way
+458,indonesia,Cirangkong,Rupiah,IDR,-6.6500292,107.7695429,,0931 Spohn Court
+459,china,Lincheng,Yuan Renminbi,CNY,37.444498,114.498761,,0 Buhler Way
+460,taiwan,Fengshan,Dollar,TWD,22.6113591,120.3493158,,48 Farragut Street
+461,indonesia,Maae,Rupiah,IDR,-6.161513,106.838424,,0 Sullivan Circle
+462,russia,Sharan,Ruble,RUB,54.815259,53.9992392,452630,3904 Toban Junction
+463,china,Yuwang,Yuan Renminbi,CNY,25.671402,104.260115,,5 Valley Edge Circle
+464,brazil,Ariquemes,Real,BRL,-9.9227086,-63.0384498,78930-000,049 Rusk Street
+465,syria,Al Quţayfah,Pound,SYP,33.7393667,36.5958947,,1 Hollow Ridge Pass
+466,philippines,Gambalidio,Peso,PHP,13.6205,122.8913,4025,75023 Annamark Place
+467,china,Fengyan,Yuan Renminbi,CNY,32.874735,117.531622,,664 Algoma Plaza
+468,mongolia,Altay sumu,Tugrik,MNT,46.1060591,92.5056124,,65 Vernon Alley
+469,cape verde,Vila de Sal Rei,Escudo,CVE,16.183349,-22.9148168,,65009 Monument Junction
+470,japan,Matsuyama,Yen,JPY,38.1553558,140.2706039,999-3146,280 Crest Line Avenue
+471,armenia,Yeghvard,Dram,AMD,40.3234491,44.4869872,,718 Mayfield Circle
+472,brazil,Entre Rios,Real,BRL,-26.7416528,-52.5852334,89862-000,815 Bellgrove Junction
+473,russia,Nagornyy,Ruble,RUB,55.658365,37.615691,142817,36 Barnett Lane
+474,indonesia,Punggurharjo,Rupiah,IDR,-6.7271573,111.4805019,,133 Ridgeview Lane
+475,mexico,Fovissste,Peso,MXN,18.3558066,-99.87075,40400,6 Gateway Center
+476,portugal,Avelinha,Euro,EUR,40.7363895,-7.8200663,3505-125,27341 Magdeline Place
+477,philippines,President Roxas,Peso,PHP,7.160227,125.05806,9405,3 Messerschmidt Trail
+478,sweden,Kinna,Krona,SEK,57.5002589,12.7091837,511 58,4 Del Sol Point
+479,zambia,Mpulungu,Kwacha,ZMW,-8.772507,31.1166193,,165 Hanover Junction
+480,china,Zongzhai,Yuan Renminbi,CNY,34.746611,113.625328,,1 Erie Hill
+481,brazil,Tapera,Real,BRL,-28.6229959,-52.8711249,99490-000,06 Gulseth Court
+482,nigeria,Sokoto,Naira,NGN,13.0058731,5.2475518,,048 Muir Terrace
+483,macedonia,Ilinden,Denar,MKD,41.99427,21.574625,1041,7 Mendota Way
+484,indonesia,Dengok,Rupiah,IDR,-7.9499222,110.5304842,,13 Summerview Court
+485,indonesia,Kotabaru,Rupiah,IDR,-3.0029841,115.9467997,,5 Fallview Hill
+486,china,Xiapu,Yuan Renminbi,CNY,26.885704,120.005147,,3 Northridge Court
+487,colombia,Cajamarca,Peso,COP,4.3578737,-75.5043761,732508,4 Michigan Circle
+488,bolivia,Sucre,Boliviano,BOB,-19.0195852,-65.2619615,,3 Annamark Park
+489,russia,Tbilisskaya,Ruble,RUB,45.3913779,40.1763516,352364,76 Melody Terrace
+490,czech republic,Žiželice,Koruna,CZK,50.3674128,13.5400012,438 01,05832 Nobel Plaza
+491,china,Xinmin,Yuan Renminbi,CNY,41.985186,122.836723,,08 Nevada Trail
+492,indonesia,Persen,Rupiah,IDR,-7.0416627,110.3998007,,1 Portage Road
+493,cambodia,Kampong Speu,Riels,KHR,11.6155109,104.3791912,,50 Shelley Drive
+494,indonesia,Kaduketug,Rupiah,IDR,-6.598,106.2248,,81915 Lighthouse Bay Parkway
+495,american samoa,Vaitogi,Dollar,USD,-14.3519929,-170.7408429,96799,23859 Hintze Alley
+496,poland,Oświęcim,Zloty,PLN,50.0413118,19.2000652,32-610,97 Eagan Trail
+497,indonesia,Karangtawar,Rupiah,IDR,-6.9633727,112.3367573,,08823 Arkansas Road
+498,belize,Belmopan,Dollar,BZD,17.2510114,-88.7590201,,3 Prairieview Trail
+499,brazil,Ilhéus,Real,BRL,-14.7929927,-39.0459316,45650-000,24 Division Parkway
+500,china,Leijiadian,Yuan Renminbi,CNY,30.884195,115.764855,,6 Blaine Pass
+501,czech republic,Vacenovice,Koruna,CZK,49.12249,15.8681689,675 51,52619 Truax Place
+502,russia,Monastyrshchina,Ruble,RUB,54.2732308,32.014211,603024,83435 Crest Line Hill
+503,french polynesia,Papeete,Franc,XPF,-17.5516251,-149.5584758,,246 Holy Cross Point
+504,japan,Beppu,Yen,JPY,31.2690077,130.4363527,891-0704,621 Sunbrook Trail
+505,portugal,Vilarinho das Cambas,Euro,EUR,41.3929185,-8.5496995,4760-743,8323 Sheridan Pass
+506,china,Nantian,Yuan Renminbi,CNY,22.556499,114.236875,,5656 Gina Pass
+507,japan,Tenri,Yen,JPY,34.6494619,135.7837972,639-1156,046 Briar Crest Trail
+508,albania,Ballsh,Lek,ALL,40.5963905,19.7383332,,5933 Vermont Trail
+509,ukraine,Novoarkhanhel’s’k,Hryvnia,UAH,48.6658441,30.817434,,772 Nova Drive
+510,ecuador,Boca Suno,Dollar,USD,-0.69832,-77.14083,,7926 Granby Crossing
+511,china,Xiadu,Yuan Renminbi,CNY,30.921373,118.784812,,8774 Hermina Court
+512,russia,Batagay-Alyta,Ruble,RUB,67.792809,130.4017789,678580,63139 Roth Lane
+513,nigeria,Miringa,Naira,NGN,10.7187596,12.1404037,,03 Longview Center
+514,morocco,Al Hoceïma,Dirham,MAD,35.2445589,-3.9317468,,54688 Sommers Lane
+515,uganda,Kapchorwa,Shilling,UGX,1.3350205,34.3976356,,4847 Messerschmidt Way
+516,malaysia,Melaka,Ringgit,MYR,3.1121428,101.6935065,75910,4646 Florence Place
+517,thailand,Taphan Hin,Baht,THB,16.2093368,100.3722477,66110,17 Main Plaza
+518,china,Henghe,Yuan Renminbi,CNY,29.756501,121.507191,,8 Kropf Trail
+519,guyana,Anna Regina,Dollar,GYD,7.2636011,-58.4829834,,9896 East Road
+520,china,Fengshuling,Yuan Renminbi,CNY,30.235005,116.475481,,71 Dayton Point
+521,russia,Petushki,Ruble,RUB,55.9251242,39.4489055,601144,233 Fuller Trail
+522,china,Qiaoyi,Yuan Renminbi,CNY,28.408233,112.932334,,486 Eliot Street
+523,kazakhstan,Arys,Tenge,KZT,42.4338529,68.8129042,,78591 Portage Terrace
+524,ivory coast,Songon,Franc,XOF,5.3191534,-4.2564094,,88 Bultman Drive
+525,egypt,Mallawī,Pound,EGP,27.7327603,30.8396598,,84368 Ridgeview Trail
+526,china,Yanglang,Yuan Renminbi,CNY,34.272117,108.084731,,4 Kim Center
+527,japan,Yanai,Yen,JPY,33.9899791,132.1078523,742-0021,7714 Schiller Crossing
+528,peru,Llipa,Sol,PEN,-12.0463731,-77.042754,,975 Barnett Plaza
+529,armenia,Nalbandyan,Dram,AMD,40.06165,43.9852874,,961 Miller Circle
+530,philippines,Guinsadan,Peso,PHP,16.944093,120.866442,2621,25339 Longview Road
+531,ukraine,Selydove,Hryvnia,UAH,48.1475145,37.297136,,145 Alpine Alley
+532,uruguay,Santa Rosa,Peso,UYU,-34.4979812,-56.0389343,,16764 Fuller Place
+533,philippines,Eustaquio Lopez,Peso,PHP,10.8051872,122.9796906,6116,41 Blue Bill Park Court
+534,china,Gongji,Yuan Renminbi,CNY,32.728228,116.943665,,695 Derek Place
+535,portugal,Vendas de Galizes,Euro,EUR,40.3159517,-7.9013121,3400-498,1 Rieder Junction
+536,china,Huangge,Yuan Renminbi,CNY,22.821335,113.515205,,1527 Oakridge Junction
+537,russia,Vorontsovka,Ruble,RUB,46.6522807,38.0818378,353664,3 Emmet Lane
+538,china,Zhangduangu,Yuan Renminbi,CNY,38.135005,114.955312,,1311 Schlimgen Drive
+539,brazil,Lauro de Freitas,Real,BRL,-12.8528438,-38.3271112,42700-000,848 Nancy Place
+540,israel,‘Afula ‘Illit,Shekel,ILS,32.623453,35.316723,,0636 Parkside Pass
+541,indonesia,Baranti,Rupiah,IDR,-3.8277688,119.7773461,,334 New Castle Terrace
+542,poland,Polańczyk,Zloty,PLN,49.3696768,22.4212003,38-610,0 Victoria Circle
+543,canada,Dalmeny,Dollar,CAD,52.33339,-106.76792,M4P,647 Clemons Court
+544,china,Huangludian,Yuan Renminbi,CNY,33.253142,112.64751,,40 Blue Bill Park Avenue
+545,china,Shipaidong,Yuan Renminbi,CNY,21.850061,111.197459,,876 Artisan Place
+546,dominican republic,Cotuí,Peso,DOP,18.9337202,-70.4047314,10210,9 Scott Junction
+547,brazil,Santa Cruz das Palmeiras,Real,BRL,-21.8239574,-47.2484692,13650-000,5 Hagan Point
+548,philippines,Kabac,Peso,PHP,11.2363822,123.709249,6052,315 Monica Court
+549,vietnam,Thị Trấn Nga Sơn,Dong,VND,20.0045547,105.9714566,,9365 Hovde Hill
+550,france,Bordeaux,Euro,EUR,44.8501354,-0.5702805,33080 CEDEX,73 Gulseth Trail
+551,canada,Burns Lake,Dollar,CAD,54.2331,-125.7533,M4H,945 Kropf Alley
+552,sweden,Hultsfred,Krona,SEK,57.4930406,15.8361761,577 32,07495 Shelley Point
+553,china,Changyi,Yuan Renminbi,CNY,36.858819,119.398525,,51799 Judy Plaza
+554,guatemala,San Marcos,Quetzal,GTQ,14.965327,-91.79528,12001,0 Gina Crossing
+555,poland,Ińsko,Zloty,PLN,53.43606,15.55039,73-140,7256 Colorado Plaza
+556,colombia,Ocaña,Peso,COP,8.25205,-73.3532199,546559,028 Northland Parkway
+557,sweden,Johanneshov,Krona,SEK,59.294651,18.0695647,121 63,70 1st Street
+558,serbia,Kula,Dinar,RSD,45.6110839,19.5361203,,5 Troy Place
+559,china,Suchen,Yuan Renminbi,CNY,35.86166,104.195397,,66602 Duke Court
+560,indonesia,Masebewa,Rupiah,IDR,-8.729881,122.0212337,,89 Mendota Lane
+561,philippines,Magsaysay,Peso,PHP,14.6031411,121.0959448,9221,208 Parkside Hill
+562,indonesia,Nakajah,Rupiah,IDR,-6.9458,112.9113,,8183 Forster Point
+563,china,Longhe,Yuan Renminbi,CNY,22.656408,114.019351,,4666 Briar Crest Parkway
+564,china,Dongmaku,Yuan Renminbi,CNY,28.425613,109.56834,,88 Garrison Crossing
+565,italy,Torino,Euro,EUR,45.0651725,7.6385118,10141,078 Melby Place
+566,chile,Puyehue,Peso,CLP,-40.6607937,-72.6131562,,1577 Anzinger Street
+567,philippines,Osias,Peso,PHP,14.5655554,121.0335158,1550,57787 Red Cloud Crossing
+568,poland,Chwałowice,Zloty,PLN,50.756497,21.8951181,27-630,783 Prairie Rose Alley
+569,japan,Kusatsu,Yen,JPY,38.997932,140.02088,999-8207,68 Meadow Ridge Street
+570,czech republic,Benešov nad Černou,Koruna,CZK,48.7233569,14.6338236,382 82,733 8th Circle
+571,china,Dalianwan,Yuan Renminbi,CNY,31.85074,117.198958,,8502 Blaine Circle
+572,united states,Sacramento,Dollar,USD,38.6,-121.45,94207,7 Memorial Terrace
+573,sweden,Vänersborg,Krona,SEK,58.3736347,12.3272689,462 36,60 Montana Junction
+574,mexico,Santa Cruz,Peso,MXN,19.6938888,-99.2591666,92733,2078 Declaration Point
+575,china,Shuidun,Yuan Renminbi,CNY,23.534915,115.420204,,1 Continental Point
+576,brazil,Canavieiras,Real,BRL,-15.6903468,-39.1127352,45860-000,74 Maywood Point
+577,denmark,København,Krone,DKK,55.6774662,12.5834168,1068,17850 Laurel Hill
+578,canada,Flin Flon,Dollar,CAD,54.7769326,-101.8448368,R8A,5006 Mayfield Parkway
+579,russia,Novolugovoye,Ruble,RUB,54.9787385,83.1136054,630553,77030 Crownhardt Hill
+580,bosnia and herzegovina,Orguz,Marka,BAM,43.7745094,16.8628891,,32 Eliot Circle
+581,russia,Kangalassy,Ruble,RUB,62.34824,129.96471,677903,0124 4th Alley
+582,china,Qiaobian,Yuan Renminbi,CNY,27.66787,106.883864,,085 Golf Center
+583,madagascar,Vondrozo,Ariary,MGA,-22.8109177,47.3302847,,2220 Bunker Hill Pass
+584,thailand,Pong,Baht,THB,19.2244114,100.3947116,56140,41 Schiller Road
+585,china,Luci,Yuan Renminbi,CNY,26.853097,109.386371,,41 Duke Drive
+586,philippines,Labnig,Peso,PHP,12.8074809,122.0553349,6534,77122 Stone Corner Pass
+587,el salvador,Chalchuapa,Dollar,USD,13.9896097,-89.6769193,,4 Division Circle
+588,china,Chunmuying,Yuan Renminbi,CNY,34.1956019,118.6733461,,74 Schlimgen Hill
+589,china,Huajie,Yuan Renminbi,CNY,39.884007,116.318712,,9 Prairieview Place
+590,central african republic,Bimbo,Franc,XAF,4.3320676,18.5166348,,752 Raven Place
+591,china,Pudong,Yuan Renminbi,CNY,31.221517,121.544379,,214 Armistice Way
+592,argentina,Catriel,Peso,ARS,-34.6893026,-58.5247124,8307,541 Gulseth Parkway
+593,china,Xinhuang,Yuan Renminbi,CNY,27.352673,109.174932,,57 Trailsway Point
+594,malaysia,Kota Kinabalu,Ringgit,MYR,5.9840985,116.0761121,88540,2299 Continental Plaza
+595,china,Tongyangdao,Yuan Renminbi,CNY,36.285792,120.601428,,51362 Grover Place
+596,peru,Palca,Sol,PEN,-11.3442564,-75.5655147,,69499 Autumn Leaf Place
+597,portugal,Leceia,Euro,EUR,38.728816,-9.2845804,2730-060,67 Hagan Alley
+598,bangladesh,Jhingergācha,Taka,BDT,23.11134,89.09061,7420,173 Logan Avenue
+599,canada,Biggar,Dollar,CAD,52.0668,-108.00135,N1S,0413 Grasskamp Hill
+600,indonesia,Walakeri,Rupiah,IDR,-10.2057,120.529,,61 Southridge Alley
+601,china,Cangshan,Yuan Renminbi,CNY,26.0,99.8333333,,3 Continental Crossing
+602,france,La Tour-du-Pin,Euro,EUR,45.5423201,5.449605,38354 CEDEX,680 Hanover Lane
+603,china,Xiangzikou,Yuan Renminbi,CNY,22.265811,113.543784,,88062 8th Center
+604,czech republic,Velké Pavlovice,Koruna,CZK,48.9046915,16.8160548,691 06,2264 Debs Point
+605,russia,Ryazan’,Ruble,RUB,54.6192996,39.8560057,390507,98 Cottonwood Alley
+606,philippines,Cabagan,Peso,PHP,17.424274,121.779585,3328,1 Coleman Trail
+607,united states,Midland,Dollar,USD,32.0631839,-102.0375564,79710,0743 Blue Bill Park Court
+608,hungary,Nyíregyháza,Forint,HUF,47.9527415,21.6927245,4404,655 Johnson Crossing
+609,indonesia,Krayen,Rupiah,IDR,-8.0871,111.6426,,68666 Arrowood Hill
+610,sweden,Årsta,Krona,SEK,59.2980063,18.0669126,120 38,387 Sunnyside Avenue
+611,norway,Oslo,Krone,NOK,59.9173309,10.8180311,0664,91019 Sherman Center
+612,thailand,Na Wa,Baht,THB,17.5165974,104.0769024,48180,707 Gina Way
+613,yemen,Al Ḩashwah,Rial,YER,16.90641,44.27622,,9 Manley Trail
+614,russia,Sterlibashevo,Ruble,RUB,53.43755,55.2578,453187,518 Donald Crossing
+615,china,Lubao,Yuan Renminbi,CNY,23.354192,112.908203,,55 Rigney Parkway
+616,djibouti,Djibouti,Franc,DJF,11.825138,42.590275,,85 Morningstar Court
+617,china,Shanxi,Yuan Renminbi,CNY,37.2425649,111.8568586,,8246 Rigney Hill
+618,indonesia,Glugur Krajan,Rupiah,IDR,-7.6476,114.0461,,96450 Center Plaza
+619,ecuador,Catamayo,Dollar,USD,-3.9879753,-79.3535714,,4049 Hayes Terrace
+620,sweden,Jönköping,Krona,SEK,57.7123057,14.3117654,551 21,06 Bowman Place
+621,philippines,Polo,Peso,PHP,14.709034,120.947095,1444,071 Myrtle Lane
+622,philippines,Pando,Peso,PHP,16.416095,120.596202,2826,067 Main Street
+623,peru,Curahuasi,Sol,PEN,-13.5426013,-72.6967861,,4 Sutherland Alley
+624,japan,Hitachi,Yen,JPY,36.6287219,140.6618666,319-1417,2814 Dryden Hill
+625,brazil,Jacarezinho,Real,BRL,-23.1734868,-49.9783088,86400-000,85 Anhalt Junction
+626,china,Dachun,Yuan Renminbi,CNY,24.879416,118.930111,,277 Tennyson Lane
+627,nigeria,Bokani,Naira,NGN,9.499877,5.169545,,9900 Arkansas Center
+628,yemen,Al Munīrah,Rial,YER,30.0413257,31.2046714,,2152 Grayhawk Street
+629,china,Songgai,Yuan Renminbi,CNY,31.2303904,121.4737021,,10096 Waywood Park
+630,vietnam,Trảng Bàng,Dong,VND,11.0328111,106.3645677,,81263 Walton Drive
+631,finland,Muurla,Euro,EUR,60.3496505,23.2799707,25130,39 Lotheville Junction
+632,tunisia,Al Mazzūnah,Dinar,TND,34.5773859,9.8431866,,1657 Pankratz Alley
+633,sweden,Tierp,Krona,SEK,60.3448681,17.4966539,815 36,5971 Wayridge Way
+634,china,Loufan,Yuan Renminbi,CNY,38.067932,111.797083,,35318 Clyde Gallagher Avenue
+635,russia,Priyutovo,Ruble,RUB,53.9240029,53.873969,452189,90803 Continental Park
+636,argentina,General Conesa,Peso,ARS,-34.6504677,-58.5613439,8503,87 Bayside Pass
+637,philippines,Bangui,Peso,PHP,16.9905258,121.637093,2920,38 Iowa Crossing
+638,canada,Pictou,Dollar,CAD,45.67875,-62.70936,M1M,7980 Main Street
+639,cuba,Colombia,Peso,CUP,20.9874938,-77.4185584,,991 Dennis Hill
+640,sweden,Nybro,Krona,SEK,56.744985,15.9203039,382 33,835 American Ash Street
+641,china,Zhushan,Yuan Renminbi,CNY,32.224808,110.228747,,74471 Troy Trail
+642,philippines,Tolosa,Peso,PHP,11.0537247,125.0332235,6503,5489 La Follette Alley
+643,kazakhstan,Bayzhansay,Tenge,KZT,43.1654615,69.9222782,,06193 Bunker Hill Place
+644,brazil,Montes Claros,Real,BRL,-16.7159055,-43.8616129,39400-000,23 Scott Point
+645,peru,Chiguata,Sol,PEN,-16.4067401,-71.3764996,,37090 South Point
+646,canada,White City,Dollar,CAD,50.444953,-104.3624353,P0W,9403 Orin Junction
+647,laos,Ban Houayxay,Kip,LAK,20.262817,100.4340367,,0 Duke Circle
+648,portugal,Vinha,Euro,EUR,41.3009465,-8.1528902,4615-131,7127 Steensland Place
+649,brazil,Seropédica,Real,BRL,-22.7691646,-43.6950804,23890-000,8 Pine View Trail
+650,dominican republic,Pedro García,Peso,DOP,18.4668424,-69.2888011,11604,8057 North Junction
+651,portugal,Vale de Santarém,Euro,EUR,39.1899002,-8.7267845,2005-033,93 Hoepker Parkway
+652,united states,Charleston,Dollar,USD,32.7830575,-79.9365839,29424,6586 Morning Place
+653,paraguay,Itaquyry,Guarani,PYG,-24.9852879,-55.1513801,,542 Comanche Crossing
+654,tunisia,Al Wardānīn,Dinar,TND,35.70915,10.67397,,957 Elmside Way
+655,czech republic,Loket,Koruna,CZK,50.1805865,12.7458293,357 33,687 Vermont Pass
+656,china,Yongyang,Yuan Renminbi,CNY,23.326616,110.034076,,71 Sage Street
+657,portugal,Ulme,Euro,EUR,39.3297421,-8.3745717,2140-368,85 Sloan Alley
+658,china,Sanya,Yuan Renminbi,CNY,18.252847,109.511909,,1506 7th Pass
+659,yemen,Kitāf,Rial,YER,17.037629,44.1221682,,5 Dixon Pass
+660,france,Versailles,Euro,EUR,48.8048649,2.1203554,78020 CEDEX,4247 Del Mar Alley
+661,indonesia,Tangkanpulit,Rupiah,IDR,-8.6603,117.1735,,8507 Evergreen Lane
+662,sweden,Haninge,Krona,SEK,59.1743158,18.236243,136 68,28 Kings Crossing
+663,finland,Varkaus,Euro,EUR,62.3316244,27.7461577,78900,38 Forest Street
+664,russia,Burlatskoye,Ruble,RUB,45.056443,43.6468877,356401,416 Hermina Circle
+665,angola,Malanje,Kwanza,AOA,-9.8251183,16.912251,,51465 Schmedeman Center
+666,argentina,Brinkmann,Peso,ARS,-34.6674349,-63.3785604,2419,56 Drewry Alley
+667,thailand,Na Chaluai,Baht,THB,14.5520342,105.1960795,34280,2309 Dennis Crossing
+668,china,Wudui,Yuan Renminbi,CNY,34.292397,119.707591,,9 Tennessee Street
+669,indonesia,Sumberagung,Rupiah,IDR,-8.557437,114.0369075,,4992 Sunnyside Lane
+670,ethiopia,Addis Ababa,Birr,ETB,8.9806034,38.7577605,,068 Dahle Road
+671,united states,San Francisco,Dollar,USD,37.7794055,-122.4494738,94159,57 Birchwood Junction
+672,china,Chengyue,Yuan Renminbi,CNY,21.17016,110.084068,,67811 Dunning Plaza
+673,japan,Goshogawara,Yen,JPY,40.8276499,140.4491245,861-0312,94676 Shasta Pass
+674,argentina,Tres Isletas,Peso,ARS,-26.3374785,-60.4304186,4000,39 Dakota Crossing
+675,peru,Huanchaco,Sol,PEN,-8.0884404,-79.0872788,,774 Walton Court
+676,russia,Krasnyy Oktyabr’,Ruble,RUB,55.830186,37.4457899,398526,17 Troy Way
+677,china,Jianshe,Yuan Renminbi,CNY,31.7711077,119.9742793,,41392 American Ash Street
+678,indonesia,Banyutengah,Rupiah,IDR,-6.893751,112.4514977,,2417 Petterle Place
+679,greece,Ierápetra,Euro,EUR,35.0118955,25.7407452,,395 3rd Street
+680,pakistan,Nazir Town,Rupee,PKR,31.5064623,74.3268113,50701,6350 John Wall Street
+681,russia,Zandak,Ruble,RUB,43.0606276,46.459691,368160,12986 Kennedy Hill
+682,united kingdom,Burnside,Pound,GBP,55.9206837,-3.5420426,EH52,1 Duke Hill
+683,china,Yutan,Yuan Renminbi,CNY,41.244729,-96.3966046,,98042 Melody Junction
+684,ukraine,Kharkiv,Hryvnia,UAH,49.9935,36.230383,,7928 Lien Center
+685,china,Chakou,Yuan Renminbi,CNY,22.483182,113.916509,,6 Melody Trail
+686,brazil,Caxias,Real,BRL,-4.8654138,-43.3619983,65600-000,74 Eagan Junction
+687,indonesia,Depok,Rupiah,IDR,-6.4024844,106.7942405,,3 Summerview Hill
+688,iran,Malārd,Rial,IRR,35.6574826,50.9762063,,1 Novick Road
+689,china,Xinpu,Yuan Renminbi,CNY,27.44587,118.679751,,2 Mccormick Way
+690,vietnam,Thành phố Bạc Liêu,Dong,VND,9.2573324,105.7557791,,147 Kensington Circle
+691,peru,Lincha,Sol,PEN,-12.8,-75.666667,,601 Reinke Pass
+692,china,Shangdu,Yuan Renminbi,CNY,30.572815,104.066801,,820 Mallard Point
+693,indonesia,Sambopinggir,Rupiah,IDR,-7.0215218,112.4798088,,413 Comanche Trail
+694,chile,Chonchi,Peso,CLP,-42.6232593,-73.7738499,,22 Pawling Center
+695,portugal,Lameiras,Euro,EUR,38.8478071,-9.3384289,2715-145,53 Kedzie Point
+696,sweden,Kristianstad,Krona,SEK,56.0247998,14.162184,291 88,50618 Bultman Center
+697,ukraine,Kacha,Hryvnia,UAH,44.7771057,33.5458805,,834 Veith Alley
+698,china,Zhuhu,Yuan Renminbi,CNY,22.270978,113.576677,,703 Crescent Oaks Drive
+699,indonesia,Sumberrejo,Rupiah,IDR,-7.1234674,111.8479156,,12232 Tennessee Circle
+700,philippines,Siay,Peso,PHP,7.7100015,122.8673679,7006,2 Susan Trail
+701,tanzania,Nganane,Shilling,TZS,-6.4,39.55,,41 Eagan Hill
+702,china,Shimen,Yuan Renminbi,CNY,29.584292,111.380014,,780 Forest Run Parkway
+703,indonesia,Ngamba,Rupiah,IDR,-8.0146,111.9856,,445 Independence Circle
+704,bolivia,Camargo,Boliviano,BOB,-20.6405825,-65.2070534,,45917 Gateway Road
+705,indonesia,Jembayan Hitam,Rupiah,IDR,-6.2176613,106.8679827,,21 Basil Center
+706,russia,Mtsensk,Ruble,RUB,53.286578,36.5904759,303036,14 Arizona Drive
+707,indonesia,Golacir,Rupiah,IDR,-4.083144,137.179103,,388 Blackbird Road
+708,philippines,Baugo,Peso,PHP,10.3826093,124.9206233,6017,10 Badeau Plaza
+709,portugal,Alburitel,Euro,EUR,39.6445351,-8.5226286,2490-005,46 Eggendart Terrace
+710,venezuela,Clarines,Bolivar,VEF,9.9399061,-65.1610557,,5 Troy Place
+711,indonesia,Sumberpitu,Rupiah,IDR,-7.1757667,111.5811123,,75371 Di Loreto Terrace
+712,philippines,Siguinon,Peso,PHP,10.9423,124.6806,6542,75658 Morning Drive
+713,bulgaria,Aheloy,Lev,BGN,42.5909476,22.9834356,8216,7 Porter Trail
+714,china,Gangtun,Yuan Renminbi,CNY,40.927831,120.632941,,25 Reindahl Alley
+715,russia,Kalinovskoye,Ruble,RUB,52.958682,48.319948,356326,9 Hermina Road
+716,finland,Virolahti,Euro,EUR,61.722009,23.3256027,49901,0 Mockingbird Plaza
+717,france,Le Blanc-Mesnil,Euro,EUR,48.9323908,2.4774664,93154 CEDEX,02892 Transport Court
+718,china,Jibu Hulangtu,Yuan Renminbi,CNY,48.968713,117.773198,,3 Luster Pass
+719,thailand,Si Khoraphum,Baht,THB,14.9445596,103.7983521,67160,0 Buhler Drive
+720,china,Shangshaleng,Yuan Renminbi,CNY,36.035581,102.822686,,03 Forest Dale Street
+721,france,Caen,Euro,EUR,49.1931313,-0.3907558,14058 CEDEX 4,327 Pepper Wood Alley
+722,china,Liquan Chengguanzhen,Yuan Renminbi,CNY,34.488516,108.423318,,98069 Lien Lane
+723,indonesia,Lemahputih,Rupiah,IDR,-7.042646,110.894036,,3622 Crownhardt Alley
+724,china,Zhoukou,Yuan Renminbi,CNY,33.626149,114.69695,,701 Hollow Ridge Plaza
+725,sweden,Valdemarsvik,Krona,SEK,58.2024514,16.6013625,615 95,70 Charing Cross Avenue
+726,portugal,Rios Frios,Euro,EUR,40.27638,-8.4732946,3025-610,117 Esker Plaza
+727,indonesia,Bojonggaling,Rupiah,IDR,-6.9897256,106.6468148,,430 Logan Place
+728,panama,Nuevo Arraiján,Balboa,PAB,8.9308058,-79.7343791,,93 Gulseth Court
+729,palestinian territory,Azun Atme,Shekel,ILS,32.123667,35.018481,,39189 Michigan Lane
+730,indonesia,Tanahedang,Rupiah,IDR,-8.5534,122.9028,,56995 Loftsgordon Plaza
+731,poland,Frampol,Zloty,PLN,50.6715465,22.6706518,23-440,2828 Graedel Crossing
+732,china,Juegang,Yuan Renminbi,CNY,29.83622,91.64777,,9383 Stuart Road
+733,indonesia,Gunungmalang Satu,Rupiah,IDR,-6.6579598,106.7336319,,8635 Bonner Alley
+734,portugal,Santiago de Subrrifana,Euro,EUR,41.2185635,-8.3027037,4560-776,277 Sheridan Hill
+735,ukraine,Shklo,Hryvnia,UAH,49.9484387,23.5302946,,0829 Debra Junction
+736,poland,Myślenice,Zloty,PLN,49.83347,19.93965,32-400,0 Lotheville Drive
+737,macedonia,Gevgelija,Denar,MKD,41.139883,22.5397872,1480,01013 6th Road
+738,malaysia,Kota Kinabalu,Ringgit,MYR,5.9840985,116.0761121,88564,6549 Emmet Center
+739,indonesia,Leran Kulon,Rupiah,IDR,-6.9262046,112.1474925,,3305 Randy Court
+740,tajikistan,Vose’,Somoni,TJS,37.8038994,69.636351,,7 Warrior Center
+741,hungary,Budapest,Forint,HUF,47.4325252,19.157136,1194,32171 Buell Plaza
+742,china,Gaoyi,Yuan Renminbi,CNY,37.615159,114.611433,,507 Butterfield Drive
+743,united states,Portland,Dollar,USD,45.5767359,-122.6386722,97211,6 Mcbride Drive
+744,eritrea,Ak’ordat,Nakfa,ERN,15.5406754,37.8777561,,346 Weeping Birch Terrace
+745,canada,Marathon,Dollar,CAD,46.4969139,-84.3457671,P6A,72450 Bluestem Park
+746,indonesia,Magetlegar,Rupiah,IDR,-8.6986,122.3514,,81383 Claremont Circle
+747,morocco,Sidi Yahia el Gharb,Dirham,MAD,34.302131,-6.302078,,286 Sunnyside Point
+748,france,Paris 13,Euro,EUR,43.4945737,5.8978018,75643 CEDEX 13,781 Moose Junction
+749,united states,Atlanta,Dollar,USD,33.9216582,-84.3772367,30358,02415 Declaration Street
+750,indonesia,Sukodono,Rupiah,IDR,-7.394667,112.6737856,,7 Packers Crossing
+751,indonesia,Panolan,Rupiah,IDR,-7.221299,111.5304344,,26073 Susan Avenue
+752,china,Laohugang,Yuan Renminbi,CNY,23.528764,116.642424,,06827 Nevada Way
+753,china,Juntang,Yuan Renminbi,CNY,31.031384,118.712281,,58 Village Parkway
+754,china,Donghai,Yuan Renminbi,CNY,34.542308,118.752842,,646 Mallard Junction
+755,canada,Saint John,Dollar,CAD,45.271697,-66.0549467,E2L,73 Erie Avenue
+756,peru,Ollantaytambo,Sol,PEN,-13.2583689,-72.2642679,,5 Morrow Road
+757,indonesia,Tegalrejo,Rupiah,IDR,-7.7798092,110.3562018,,4 Bluestem Plaza
+758,madagascar,Vavatenina,Ariary,MGA,-17.4652462,49.2005539,,93890 Utah Pass
+759,china,Shibi,Yuan Renminbi,CNY,26.244258,116.512887,,881 Summit Road
+760,argentina,Bella Vista,Peso,ARS,-34.5941789,-58.7294973,9400,2298 Forest Dale Center
+761,mexico,Dante Delgado,Peso,MXN,17.9898675,-94.6331656,96710,1 Debra Lane
+762,uzbekistan,Yangirabot,Som,UZS,40.0395689,65.9690392,,9154 Melrose Junction
+763,united states,Delray Beach,Dollar,USD,26.4649188,-80.1226012,33448,0 Macpherson Crossing
+764,indonesia,Babakanbandung,Rupiah,IDR,-6.205673,106.3081194,,7637 Packers Avenue
+765,china,Dingqiao,Yuan Renminbi,CNY,30.350192,120.222909,,2 Alpine Drive
+766,china,Yankou,Yuan Renminbi,CNY,27.644731,111.554576,,232 Melby Alley
+767,guam,Tamuning-Tumon-Harmon Village,Dollar,USD,13.5027167,144.8016402,96913,6 Kim Avenue
+768,sweden,Piteå,Krona,SEK,65.3221906,21.4337149,941 28,9796 Mitchell Place
+769,croatia,Petrijevci,Kuna,HRK,45.6438305,18.5215008,31208,54 Oak Valley Drive
+770,greece,Néa Péramos,Euro,EUR,40.8385582,24.3031958,,04906 Del Sol Circle
+771,indonesia,Banyuurip,Rupiah,IDR,-7.2719005,112.7196817,,3 Clove Junction
+772,indonesia,Motong,Rupiah,IDR,-8.3997551,117.1235339,,19009 Banding Hill
+773,philippines,Kolambugan,Peso,PHP,8.1113884,123.8961588,2100,3 Fordem Point
+774,philippines,Pangal Sur,Peso,PHP,16.67064,121.71581,3313,21017 Badeau Road
+775,russia,Ufa,Ruble,RUB,55.354135,40.297852,356235,4 Drewry Lane
+776,thailand,Pom Prap Sattru Phai,Baht,THB,13.7514954,100.5108479,10100,836 Luster Alley
+777,russia,Sorochinsk,Ruble,RUB,52.431009,53.1620435,461949,3 Hagan Road
+778,brazil,Delmiro Gouveia,Real,BRL,-9.3863122,-37.9926586,57480-000,52949 Esker Avenue
+779,indonesia,Tanggulangin,Rupiah,IDR,-7.5145399,112.7330892,,9919 Havey Parkway
+780,syria,Al Jawādīyah,Pound,SYP,36.9853085,41.8184743,,4 Grim Circle
+781,nigeria,Agenebode,Naira,NGN,7.1065989,6.6878719,,0 Longview Place
+782,united states,Springfield,Dollar,USD,38.79,-77.19,22156,582 Butterfield Road
+783,china,Timeng,Yuan Renminbi,CNY,35.86166,104.195397,,2 Forster Crossing
+784,japan,Obita,Yen,JPY,35.3209172,136.8367649,859-0416,5533 Fallview Drive
+785,netherlands,Haarlem,Euro,EUR,52.3811357,4.6419648,2019,563 Moose Hill
+786,france,Perpignan,Euro,EUR,42.6962642,2.8797149,66050 CEDEX,1366 Warbler Circle
+787,gabon,Ndjolé,Franc,XAF,-0.1882802,10.7605239,,1591 Saint Paul Court
+788,tonga,Nuku‘alofa,Pa'anga,TOP,-21.1393418,-175.204947,,92306 South Avenue
+789,china,Canmang,Yuan Renminbi,CNY,28.922003,110.898783,,154 Gina Avenue
+790,liberia,Ganta,Dollar,LRD,7.2357275,-8.98527,,71 Tennyson Street
+791,china,Zeqin,Yuan Renminbi,CNY,25.84122,116.023145,,10555 Briar Crest Court
+792,mexico,San Isidro,Peso,MXN,19.2573848,-99.0149647,36450,39187 Continental Terrace
+793,united states,Santa Ana,Dollar,USD,33.7518692,-117.8590737,92725,3131 Birchwood Drive
+794,china,Liaoyang,Yuan Renminbi,CNY,41.267244,123.236944,,313 Katie Circle
+795,colombia,Guamal,Peso,COP,9.1669471,-74.1474846,473029,753 Dahle Avenue
+796,brazil,Jacutinga,Real,BRL,-27.7929655,-52.5425318,99730-000,3 Anhalt Street
+797,syria,Aş Şanamayn,Pound,SYP,33.0746899,36.1816908,,986 Clove Junction
+798,russia,Grazhdanka,Ruble,RUB,60.008624,30.412653,692651,45248 Forest Dale Point
+799,china,Zhutian,Yuan Renminbi,CNY,25.061321,114.316155,,2 Pierstorff Way
+800,china,Jiangyin,Yuan Renminbi,CNY,31.920658,120.284938,,61534 Forest Run Circle
+801,france,Paris 14,Euro,EUR,43.4945737,5.8978018,75669 CEDEX 14,186 Randy Lane
+802,sweden,Göteborg,Krona,SEK,57.6938555,11.9704401,411 31,987 Bellgrove Road
+803,portugal,Chorente,Euro,EUR,41.4581245,-8.6099118,4755-121,48895 Laurel Pass
+804,sweden,Klippan,Krona,SEK,56.1357417,13.1119454,264 31,62 Spenser Road
+805,china,Yuecheng,Yuan Renminbi,CNY,29.988244,120.582633,,65 Oneill Point
+806,thailand,Khon Buri,Baht,THB,14.4349111,102.1632718,30250,59092 Scoville Crossing
+807,philippines,Bulod,Peso,PHP,14.8305973,120.9723263,1106,1507 Hintze Court
+808,burkina faso,Tougan,Franc,XOF,13.0695031,-3.0626284,,8033 Lake View Plaza
+809,poland,Budziszewice,Zloty,PLN,51.667293,19.93565,97-212,86 Oak Place
+810,ukraine,Krynychky,Hryvnia,UAH,48.3694747,34.4573326,,93 Pine View Junction
+811,china,Meicheng,Yuan Renminbi,CNY,28.133945,111.656407,,9231 Riverside Court
+812,venezuela,Soledad,Bolivar,VEF,8.1707969,-63.5658573,,3 Talmadge Way
+813,russia,Kol’chugino,Ruble,RUB,56.3229585,39.3205815,601787,8 Summit Trail
+814,china,Haoshui,Yuan Renminbi,CNY,35.66063,106.110673,,2 Mitchell Lane
+815,peru,Andahuaylillas,Sol,PEN,-13.674114,-71.6777177,,798 Clemons Trail
+816,canada,Vaudreuil-Dorion,Dollar,CAD,45.3665513,-73.9713406,J7W,50109 Oxford Crossing
+817,philippines,Castañas,Peso,PHP,13.88263,121.555099,4301,26984 Longview Lane
+818,uruguay,Porvenir,Peso,UYU,-32.3927221,-57.968819,,63 Muir Junction
+819,china,Xuhang,Yuan Renminbi,CNY,34.035771,113.852454,,8 Upham Hill
+820,indonesia,Genyem,Rupiah,IDR,-2.631564,140.470795,,461 Dayton Avenue
+821,portugal,Vila Pouca da Beira,Euro,EUR,40.3073139,-7.9200214,3400-759,4239 Redwing Place
+822,russia,Zeya,Ruble,RUB,50.2588049,127.51838,186915,9793 South Court
+823,united states,Kansas City,Dollar,USD,39.1140535,-94.7743365,66112,6 5th Avenue
+824,japan,Noshiro,Yen,JPY,36.5389716,136.6033466,921-8804,9653 Surrey Junction
+825,indonesia,Cihaladan,Rupiah,IDR,-6.58096,106.10632,,089 Warrior Terrace
+826,france,Levallois-Perret,Euro,EUR,48.8904258,2.2936854,92309 CEDEX,9 Fremont Drive
+827,poland,Kutno,Zloty,PLN,52.3956594,19.1739321,93-524,5418 Rieder Terrace
+828,brazil,Serrinha,Real,BRL,-6.2553933,-35.5876697,59258-000,0364 Gulseth Road
+829,mexico,Magisterial,Peso,MXN,21.443179,-102.5724749,47207,86 Algoma Plaza
+830,colombia,Florencia,Peso,COP,1.683061,-77.072933,195047,60609 Oxford Court
+831,china,Zhongmen,Yuan Renminbi,CNY,25.179836,119.08713,,8 Hintze Lane
+832,philippines,Palompon,Peso,PHP,11.0480972,124.3824669,6538,4 Larry Junction
+833,indonesia,Pandansari,Rupiah,IDR,-6.9736661,110.4180162,,77 American Plaza
+834,indonesia,Bakung Utara,Rupiah,IDR,-3.1446171,104.5305715,,1 Kropf Terrace
+835,indonesia,Brakas,Rupiah,IDR,-6.9726393,110.7629067,,1 New Castle Place
+836,russia,Severka,Ruble,RUB,56.8674893,60.2882554,620920,40 Little Fleur Way
+837,honduras,Reitoca,Lempira,HNL,13.8267271,-87.4659693,,75232 Everett Place
+838,indonesia,Limboto,Rupiah,IDR,0.6877958,122.9775675,,1053 Burning Wood Crossing
+839,philippines,Lumatil,Peso,PHP,5.8734472,124.8979544,7012,6651 Canary Place
+840,vietnam,Chơn Thành,Dong,VND,11.4696902,106.6527099,,79263 Riverside Alley
+841,poland,Niemodlin,Zloty,PLN,50.6422,17.61989,49-100,6 Havey Terrace
+842,indonesia,Jetis,Rupiah,IDR,-7.783297,110.363649,,25422 Sloan Drive
+843,ireland,Greenhills,Euro,EUR,53.3122864,-6.336393,D6W,04 Sachs Street
+844,russia,Khrenovoye,Ruble,RUB,51.12,40.28889,397743,8 Summer Ridge Junction
+845,poland,Bielice,Zloty,PLN,53.2001742,14.7571949,74-202,1614 Victoria Crossing
+846,china,Jiabeiyan,Yuan Renminbi,CNY,40.338328,119.73214,,813 Londonderry Park
+847,brazil,Jequitinhonha,Real,BRL,-16.4510937,-41.0394028,39960-000,16486 Cardinal Trail
+848,russia,Vostochnyy,Ruble,RUB,55.816131,37.8768991,612711,4 Hanover Parkway
+849,philippines,Balingoan,Peso,PHP,9.3295342,124.6133794,6534,79427 Pennsylvania Parkway
+850,china,Maintang,Yuan Renminbi,CNY,29.0300404,111.7227409,,46503 Onsgard Circle
+851,philippines,Gasan,Peso,PHP,13.312811,121.8790306,4905,1232 Maple Wood Hill
+852,indonesia,Batulenger Barat,Rupiah,IDR,-6.8893639,113.3914263,,91 Butternut Plaza
+853,poland,Władysławowo,Zloty,PLN,54.79074,18.403,84-120,3435 Melody Pass
+854,china,Lianjiangkou,Yuan Renminbi,CNY,46.857141,130.325723,,49 Morningstar Alley
+855,china,Xiyang,Yuan Renminbi,CNY,37.612712,113.707184,,5354 Porter Avenue
+856,china,Herong,Yuan Renminbi,CNY,30.701369,111.98348,,452 Manley Plaza
+857,poland,Januszkowice,Zloty,PLN,50.4466097,18.1077046,47-330,2059 West Parkway
+858,equatorial guinea,Santiago de Baney,Franc,XAF,3.7015971,8.9100475,,69415 Gina Court
+859,argentina,General Alvear,Peso,ARS,-34.8411832,-58.4389753,3361,34 5th Pass
+860,afghanistan,Rustāq,Afghani,AFN,37.1091948,69.9193004,,503 Mayer Avenue
+861,ukraine,Dobropillya,Hryvnia,UAH,48.4691324,37.0871224,,791 Waxwing Road
+862,china,Heishan,Yuan Renminbi,CNY,41.666028,122.1234429,,5 Grover Point
+863,china,Dengteke,Yuan Renminbi,CNY,48.6429165,124.5597559,,84 Northport Hill
+864,indonesia,Citeguh,Rupiah,IDR,-7.3360763,107.9512504,,2072 Loeprich Center
+865,yemen,Suḩayl Shibām,Rial,YER,15.91448,48.63864,,74 Thackeray Point
+866,thailand,Song,Baht,THB,18.5769276,100.2151578,54120,28340 Golf View Trail
+867,poland,Jabłonica Polska,Zloty,PLN,51.310421,20.7626339,38-421,5831 Armistice Terrace
+868,egypt,Juhaynah,Pound,EGP,26.6761327,31.4945887,,67768 Nevada Plaza
+869,indonesia,Prantaan,Rupiah,IDR,-6.9534286,111.5021144,,6284 Tennessee Plaza
+870,philippines,Koronadal,Peso,PHP,6.3346249,124.9492975,9505,13785 East Pass
+871,france,Lyon,Euro,EUR,43.0429124,1.9038837,69939 CEDEX 20,0 Nevada Crossing
+872,philippines,Boliney,Peso,PHP,17.372649,120.770342,2815,17597 Maryland Terrace
+873,china,Laozhuang,Yuan Renminbi,CNY,34.810487,117.323725,,2 Hansons Hill
+874,czech republic,Modřice,Koruna,CZK,49.1278721,16.613233,664 42,0082 Monica Lane
+875,czech republic,Dolní Kounice,Koruna,CZK,49.0701119,16.4649242,664 64,07239 Clemons Place
+876,ukraine,Svitlovods’k,Hryvnia,UAH,49.0496835,33.2284693,,43 Declaration Trail
+877,netherlands,Almelo,Euro,EUR,52.3323097,6.6372501,7609,461 Pleasure Avenue
+878,french polynesia,Fare,Franc,XPF,-16.7111944,-151.0340359,,66595 Gulseth Parkway
+879,spain,Granada,Euro,EUR,37.1773363,-3.5985571,18010,76317 Mccormick Circle
+880,china,Gaocang,Yuan Renminbi,CNY,24.318067,102.518532,,64 Farmco Court
+881,canada,Alma,Dollar,CAD,48.55009,-71.6491,N6J,23 Vera Place
+882,sweden,Helsingborg,Krona,SEK,56.0265492,12.8055694,250 06,88758 Eggendart Plaza
+883,united states,Dallas,Dollar,USD,32.6901244,-96.937016,75236,5 Oak Alley
+884,philippines,Salamanca,Peso,PHP,14.5655902,121.0288144,6313,15 Center Street
+885,mongolia,Tsagaannuur,Tugrik,MNT,51.3605659,99.3468919,,006 Colorado Pass
+886,gambia,Jakhaly,Dalasi,GMD,13.5460383,-14.9717426,,68 Colorado Pass
+887,indonesia,Jatisari,Rupiah,IDR,-6.3385652,106.9447146,,6953 Garrison Crossing
+888,thailand,Nong Yai,Baht,THB,13.1285787,101.3658004,20190,5484 Green Ridge Point
+889,bolivia,Lintaca,Boliviano,BOB,-20.76667,-65.33333,,18 Hovde Center
+890,china,Talin Hiag,Yuan Renminbi,CNY,46.160066,124.1436001,,0760 Southridge Road
+891,poland,Kamień Pomorski,Zloty,PLN,53.9672519,14.7714251,72-400,773 Sachtjen Lane
+892,sweden,Örnsköldsvik,Krona,SEK,63.3063621,18.7067796,891 41,80 Prairieview Pass
+893,colombia,Albania,Peso,COP,5.759368,-73.91453,684537,61 Garrison Terrace
+894,united states,Omaha,Dollar,USD,41.2418116,-95.9673967,68105,9 North Drive
+895,indonesia,Bima,Rupiah,IDR,-8.4642661,118.7449028,,3482 Farwell Way
+896,paraguay,Isla Pucú,Guarani,PYG,-25.3088443,-56.9014072,,88751 Arrowood Way
+897,china,Xinxu,Yuan Renminbi,CNY,22.863502,114.333767,,11 Longview Parkway
+898,philippines,Balagui,Peso,PHP,11.4752,124.5324,6549,78993 Riverside Road
+899,china,Jieduo,Yuan Renminbi,CNY,32.596752,95.308054,,72575 Ilene Hill
+900,dominican republic,Gaspar Hernández,Peso,DOP,19.2933162,-70.2583451,11203,2003 Mendota Parkway
+901,kyrgyzstan,Jalal-Abad,Som,KGS,40.9331541,72.9814877,,31559 Village Pass
+902,thailand,Bang Ban,Baht,THB,14.4050979,100.464947,13250,95 Oneill Terrace
+903,france,Marseille,Euro,EUR,43.7441795,2.511999,13382 CEDEX 13,27699 Leroy Way
+904,colombia,Granada,Peso,COP,4.524233,-74.356481,252257,6732 Towne Drive
+905,peru,Canta,Sol,PEN,-11.4691392,-76.6232202,,7703 Magdeline Junction
+906,china,Anqing,Yuan Renminbi,CNY,30.531919,117.115101,,415 Lakewood Gardens Road
+907,china,Jingmen,Yuan Renminbi,CNY,31.035395,112.199427,,33703 Logan Court
+908,sweden,Angered,Krona,SEK,57.7694738,12.0110298,424 31,5499 Carey Place
+909,bolivia,Coripata,Boliviano,BOB,-16.3134305,-67.6036362,,64 Upham Street
+910,china,Shangde,Yuan Renminbi,CNY,22.80524,113.293359,,84408 Meadow Ridge Hill
+911,russia,Berendeyevo,Ruble,RUB,43.9480111,39.3104788,152000,27 Wayridge Hill
+912,indonesia,Krajan Langenharjo,Rupiah,IDR,-7.6184408,110.8072159,,1 Browning Terrace
+913,indonesia,Jedung,Rupiah,IDR,-7.0747722,110.3653114,,3538 Pleasure Parkway
+914,indonesia,Mulyorejo,Rupiah,IDR,-7.2723024,112.7837381,,7070 Prentice Lane
+915,poland,Łużna,Zloty,PLN,49.712424,21.0458599,38-322,15624 Upham Pass
+916,indonesia,Maguwon,Rupiah,IDR,-6.9661,111.3769,,84533 Beilfuss Lane
+917,indonesia,Cibulakan,Rupiah,IDR,-6.82482,107.0997164,,1 Aberg Street
+918,palestinian territory,Khursā,Shekel,ILS,31.440961,34.99744,,0051 Forster Point
+919,china,Bahuang,Yuan Renminbi,CNY,27.738569,108.831887,,198 Mitchell Junction
+920,philippines,Bagumbayan,Peso,PHP,14.5919106,121.0228804,9810,45 Debs Avenue
+921,russia,Baryshevo,Ruble,RUB,54.9479093,83.1831386,646575,52852 Schlimgen Trail
+922,poland,Grojec,Zloty,PLN,49.9800949,19.234704,32-615,19750 Bunting Point
+923,france,Cholet,Euro,EUR,47.0615944,-0.8816138,49321 CEDEX,880 Sundown Lane
+924,sweden,Danderyd,Krona,SEK,59.406891,18.0157421,182 39,4 Alpine Trail
+925,indonesia,Tiro,Rupiah,IDR,-7.7823871,110.374855,,30637 Sunnyside Crossing
+926,russia,Glubokiy,Ruble,RUB,55.7557791,37.5709037,368034,3312 Ridgeway Way
+927,nigeria,Nkwerre,Naira,NGN,5.7647948,7.0982581,,25525 Cordelia Center
+928,canada,Thetford-Mines,Dollar,CAD,46.1098585,-71.2983257,G6G,17500 Saint Paul Crossing
+929,russia,Chemodanovka,Ruble,RUB,53.2254858,45.2551096,442965,7 Lukken Park
+930,indonesia,Paninggaran,Rupiah,IDR,-7.1549929,109.5925139,,4931 Delladonna Pass
+931,russia,Peterhof,Ruble,RUB,59.8863041,29.9085976,198804,76898 Golf Course Hill
+932,poland,Przywidz,Zloty,PLN,54.1949744,18.3202769,83-047,90 Summerview Plaza
+933,azerbaijan,Ujar,Manat,AZN,40.5067525,47.6489641,,8266 Mayfield Lane
+934,china,Junshan,Yuan Renminbi,CNY,31.385597,120.980736,,6 Havey Drive
+935,portugal,Alcoutim,Euro,EUR,37.4713134,-7.4720384,8970-055,541 Eagle Crest Hill
+936,bosnia and herzegovina,Hotonj,Marka,BAM,43.8947634,18.3723677,,49952 Rusk Crossing
+937,philippines,Bolo,Peso,PHP,13.7866222,120.9767873,4201,59498 Novick Lane
+938,china,Biguo,Yuan Renminbi,CNY,37.22351,120.560079,,11585 Chive Terrace
+939,indonesia,Naga,Rupiah,IDR,2.9614905,98.2705298,,12 Luster Center
+940,brazil,Campo Maior,Real,BRL,-4.8220831,-42.1644994,64280-000,3 5th Crossing
+941,canada,Lumsden,Dollar,CAD,50.65009,-104.86783,L7E,794 Trailsway Pass
+942,poland,Mstów,Zloty,PLN,50.8294542,19.2859852,42-244,7 Delladonna Hill
+943,spain,Logroño,Euro,EUR,42.4576548,-2.4407498,26070,17972 Redwing Street
+944,poland,Kazimierz Dolny,Zloty,PLN,51.3180409,21.9542482,24-120,209 Claremont Avenue
+945,indonesia,Sumbersih,Rupiah,IDR,-8.3256099,112.256285,,626 Cascade Lane
+946,portugal,Carapelhos,Euro,EUR,40.4423844,-8.6946024,3070-605,94 Schmedeman Parkway
+947,sweden,Herrljunga,Krona,SEK,58.0780287,13.0188387,524 32,87 Mandrake Pass
+948,libya,Al Jaghbūb,Dinar,LYD,29.7417348,24.5168391,,6 Maryland Terrace
+949,indonesia,Seririt,Rupiah,IDR,-8.2053196,114.9279547,,79962 Morning Crossing
+950,united states,Dallas,Dollar,USD,44.934021,-123.3072848,75387,1195 Manley Crossing
+951,ukraine,Bezlyudivka,Hryvnia,UAH,49.8753,36.2827926,,2 Maryland Crossing
+952,south korea,Heung-hai,Won,KRW,36.1125,129.35222,,4 Artisan Drive
+953,china,Wuhao,Yuan Renminbi,CNY,39.7601611,116.3169416,,9447 Bluejay Junction
+954,morocco,Casablanca,Dirham,MAD,33.5731104,-7.5898434,,435 Schurz Point
+955,ukraine,Brody,Hryvnia,UAH,50.0788069,25.1478942,,7 Hauk Way
+956,ukraine,Kulevcha,Hryvnia,UAH,46.0313077,29.9343459,,9 Buell Place
+957,lebanon,Zahlé,Pound,LBP,33.8462304,35.9019775,,01464 Bunker Hill Place
+958,ukraine,Budy,Hryvnia,UAH,49.8932741,36.011984,,5 Waubesa Center
+959,indonesia,Oematnunu,Rupiah,IDR,-10.2674627,123.5336078,,15 6th Terrace
+960,croatia,Zadvorsko,Kuna,HRK,45.7198309,15.909036,10257,682 Canary Parkway
+961,united states,Memphis,Dollar,USD,35.1241195,-90.0443217,38126,51 Ruskin Hill
+962,russia,Vostok,Ruble,RUB,48.375888,135.5602794,191023,286 Forest Junction
+963,chile,Río Bueno,Peso,CLP,-40.3313422,-72.9485366,,5857 Del Mar Trail
+964,russia,Nakhabino,Ruble,RUB,55.8389853,37.1414146,433532,4959 Ryan Parkway
+965,brazil,Seabra,Real,BRL,-12.5444681,-41.8402054,46900-000,61243 Waubesa Plaza
+966,indonesia,Ciparakan,Rupiah,IDR,-7.5831538,108.6353764,,82946 Annamark Hill
+967,united arab emirates,Abu Dhabi,Dirham,AED,24.453884,54.3773438,,94559 Riverside Parkway
+968,japan,Kōnosu,Yen,JPY,36.0932201,139.4440586,369-0137,1024 Fulton Trail
+969,china,Longyuanba,Yuan Renminbi,CNY,24.937517,114.455815,,285 Melrose Drive
+970,indonesia,Muarabadak,Rupiah,IDR,-0.3662126,117.4086488,,1 Hanson Hill
+971,honduras,San Francisco de la Paz,Lempira,HNL,14.8751623,-86.1828047,,6 Blackbird Plaza
+972,philippines,Sindon,Peso,PHP,17.06034,122.01514,2708,44 Blue Bill Park Plaza
+973,indonesia,Karangtawar,Rupiah,IDR,-6.9633727,112.3367573,,046 Washington Hill
+974,argentina,Quemú Quemú,Peso,ARS,-36.6419362,-64.3204306,3240,54 Continental Lane
+975,china,Minyue,Yuan Renminbi,CNY,39.579208,109.708633,,526 David Avenue
+976,sweden,Linköping,Krona,SEK,58.4055961,15.7403531,585 92,04 Arkansas Plaza
+977,faroe islands,Eystur,Krone,DKK,62.20907,-6.75247,666,874 Hoepker Lane
+978,indonesia,Puputan,Rupiah,IDR,-6.5619262,106.3786028,,8763 Mockingbird Alley
+979,philippines,Santa Lucia,Peso,PHP,17.1056791,120.4557309,2712,544 La Follette Drive
+980,philippines,Santol,Peso,PHP,15.1650908,120.5657329,2516,085 Veith Circle
+981,morocco,Sefrou,Dirham,MAD,33.8305244,-4.8353154,,8097 Parkside Center
+982,indonesia,Sugihwaras,Rupiah,IDR,-7.3003622,111.9492682,,69 Kingsford Center
+983,guatemala,San Martín Zapotitlán,Quetzal,GTQ,14.6014622,-91.6087417,11006,4199 Lake View Avenue
+984,philippines,San Teodoro,Peso,PHP,14.5643332,121.1334952,5202,6525 Transport Street
+985,ukraine,Chynadiyovo,Hryvnia,UAH,48.4907371,22.8097434,,2 Burrows Terrace
+986,philippines,Halayhay,Peso,PHP,14.3705235,120.8168869,2207,04357 Pawling Road
+987,kazakhstan,Aksu,Tenge,KZT,52.0404797,76.9262526,,177 Sycamore Trail
+988,peru,Mariposa,Sol,PEN,-11.403372,-74.752726,,8217 Starling Pass
+989,china,Liupai,Yuan Renminbi,CNY,39.957737,116.363671,,3 4th Street
+990,russia,Timashëvsk,Ruble,RUB,45.5946392,38.956757,352708,308 Annamark Point
+991,russia,Oyskhara,Ruble,RUB,43.2608797,46.2407529,366218,38 Jenifer Trail
+992,argentina,Resistencia,Peso,ARS,-27.451456,-59.029959,3500,35 Orin Point
+993,china,Dongjiang Matoukou,Yuan Renminbi,CNY,31.5977,118.45323,,115 Lillian Parkway
+994,china,Feilaixia,Yuan Renminbi,CNY,23.817974,113.273132,,07733 Mcguire Circle
+995,brazil,Ibirité,Real,BRL,-20.0256695,-44.0572964,32400-000,40464 Hauk Court
+996,poland,Gilowice,Zloty,PLN,49.7053824,19.2911275,34-322,1954 Tony Avenue
+997,puerto rico,San Juan,Dollar,USD,18.4,-66.05,00928,8 Carpenter Parkway
+998,poland,Piaski,Zloty,PLN,51.8846508,17.0729206,63-820,6 Comanche Parkway
+999,angola,Cuito,Kwanza,AOA,-15.1632458,19.1612478,,136 Anzinger Terrace
+1000,china,Xinchengpu,Yuan Renminbi,CNY,38.2645,114.690007,,004 1st Center
